@@ -1,31 +1,40 @@
 Medicare would like to test the hypothesis that the average monthly rate for one-bedroom assisted-living facility is equal to $3,300. A random sample of 12 assisted-living facilities had an average rate of $3.690 per month and a standard of $530. It is believed that the monthly rate for one-bedroom assisted-living facility is normally distributed. Use the significance level of 0.05 for this hypothesis test, what is the value of the test statistic? | 2.55
+
 An economist is interested in studying the incomes of consumers in a particular region. The population standard deviation is known to be $1000. A random sample of 50 individuals resulted in an average income of $15000. What total sample size would the economist need to use for a 95% confidence interval if the width of the interval should not be more than $100?
 Let Z0.025 = 1.96 | 1537
+
 (Choose 1 answer) The following confidence interval is obtained for a population proportion, p: 0.817 < p < 0.855. Use these confidence interval limits to find the point estimate of p. | 0.836
+
 In an application to estimate the mean number of miles that downtown employees commute to work roundtrip each day, the following information is given:
 n=20, x = 4.33, S = 3.50
 Based on this information, what is the upper limit for a 95 percent two-sided confidence interval estimate for the true population mean?
  Let 20.025 = 1.96, 20.08 = 1.65, 10.025,19 = 2.09 and to.08,19 = 1.73. | about 5.97 miles
+
 A manufacturer of a certain brand of rice cereal claims that the average saturated fat content does not exceed 1.6 grams. State the null and alternative hypotheses to be used in testing this claim.
 (i) H: m = 1.6, H khac 1.6
 (ii) H: m = 1.6, H: m< 1.6
 (iii) He: m = 1.6, H1: m > 1.6
 (iv) H.: m >1.6, H1: m = 1.6 | (iii)
+
 (Choose 1 answer) An article reported on the topics that teenagers most want to discuss with their parents. The findings, the results of a poll, showed that 33% would like more discussion about the family's financial situation, 37% would like to talk about school, and 30% would like to talk about religion. These and other percentages were based on a national sampling of 549 teenagers. Estimate the proportion of all teenagers who want more family discussions about school. Use a 99% confidence level.
 Let Z0.005 = 2.58 and Z0.01 = 2.3s3 | (0.317,0.423)
+
 An entrepreneur is considering the purchase of a coin-operated laundry. The current owner claims that over the past 5 years, the average daily revenue was $675 with a standard deviation of $75. A sample of 46 days reveals a daily average revenue of $625. If you were to test the null hypothesis that the daily average revenue was $675, which test would you use?
 A t-test (using Student distribution) of population mean 
 B. t-test (using Student distribution) of a population proportion 
 C. Ztest (using normal distribution) of a population mean 
 D. Z-est (using normal distribution) of a population proportion | C
+
 (Choose 1 answer) It is desired to estimate the average total compensation of CEOs in the Service industry. Data were randomly collected from 35 CEOs and the 94% confidence interval was calculated to be (3451260. 7536180). Which of the following interpretations is correct?
 A. In the population of Service industry CEOs. 94% of them will have total compensations that fall in the interval 3451260 to 7536180
 B. 94% of the sampled total compensation values fell between 3451260 and 7536180
 C. We are 94% confident that the average total compensation of all CEOs in the Service industry falls in the interval 3451260 to 7536180
 D. We are 94% confident that the mean of the sampled CEOs falls in the interval 3451260 to 7536180 | C
+
 Compute the test statistic to test the claim
 stand2 khac 40.8
 if n = 10, S binh = 45, and alpha = 0.05. | 9.926
+
 A study of the effect on mileage obtained with different sizes of metering jets in a particular model of a compact auto produced the following data.
 Size of jet x 3 4 5
 Miles per gallon y 28 30 23
@@ -34,20 +43,24 @@ Find the equation of the regression line.
 (ii) y=34-3.2x
 (iii) y=50-3.5x
 (iv) y=35-3.5x | (i)
+
 A student randomly selects 10 CDs at a store. The mean is 8.75 with a standard deviation of 1.50. Construct a 95% confidence interval for the population standard deviation. Assume the data are normally distributed
 X2 0.025,9 = 19.02, X2 0.025,9 = 2.70 | (1.03, 2.74)
+
 Anna collected the scores of a random sample 50 students on the first exam in a certain class and their corresponding scores on the second exam in that class. Here is computer output on the sample data:
 
  Coofficients Standard Error
 Intercept 7.895 3.66
 X-Variable 1 0.975 0.21
 Assume that all conditions for inference have been met. Find the test statistic for testing the null hypothesis that the population slope is 0.5 | x
+
 An airline claims that only 6% of all lost luggage is never found. If, in a random sample, 17 of 200 pieces of lost luggage are not found, test the null hypothesis p = 0.06 against the alternative hypothesis p > 0.06 at alpha = 0.05.
 Let Z0.05 = 1.65
 (i) zo = 1.489, fail to reject Ho
 (ii) zo = 1.489, reject Ho
 (iii) zo = 1.836, fail to reject Ho
 (iv) zo = 1.836, reject Ho | (i)
+
 8.The height y and base diameter x of four trees of a certair variety produced the following data:
 x 2 2 3 3 
 y 31 36 94 127
@@ -57,6 +70,7 @@ B. 0.245
 C. 0.764
 D. 0.899
 E. None | A
+
 9.Find the value of the test statistic X^2,0 based on the given information H0:
 ϭ^2 = 0.01, n = 20, s^2 = 0.0153
 A. None of the other choices is correct 
@@ -64,6 +78,7 @@ B. 30.98
 C. 30.27
 D. 29.07 
 E. 28.01 | D
+
 3.A mail-order firm is interested in estimating the number of order that need to be processed on a given day from the weight of the mail received. A close monitoring of the mail on 4 randomly selected business days produced the results below.
 Find the equation of the least squares regression line
 y^= a + bx relating the number of orders to the weight of the mail.
@@ -74,30 +89,35 @@ B. -5x - 0.23
 C. None
 D. 5.5 + 0.23x
 E. -5 + 0.23x | D
+
 12.Medicare would like to test the hypothesis that the average monthly rate for one-bedroom assisted living facility is equal to $3,300. A random sample of 12 assisted living facilities had an average rate of $3,690 per month and a standard of $530. It is believed that the monthly rate for one-bedroom assisted living facility is normally distributed. Use the significance level of 0.05 for this hypothesis test, what is the critical value?
 A. 1.645; -1.645 
 B. None of the other choices is true 
 C. 2. 201; -2201 
 D. 1.985; -1.985 
 E. 2.761; -2.761 | C
+
 13.A random sample of 16 fluorescent light bulbs has a mean life of 645 hours with a standard deviation of 31 hours. Construct a 95% confidence interval for the population mean. Assume the population has a normal distribution. 
 A. (531.2, 612.9) 
 B. (321.7, 365.8) 
 C. None of the other choices is correct 
 D. (628.5,661.5) 
 E. (876.2, 981.5) | D
+
 10.From a prior study, the population proportion p is estimated by 0.6. What sample size is needed to be 99% confident that the point estimate of p will be within 0.2 around the population p?
 A. None of the other choices is correct 
 B. 40
 C. 33
 D. 32
 E. 39 | B
+
 11.Find the value the test statistic to test the claim that less than 50% of the people following a particular diet will experience increased energy. Of 100 randomly selected subjects who followed the diet, 47 noticed an increase in their energy level.
 A. 1.65
 B. None of the other choices is correct 
 C. -0.60
 D. 1.21
 E. -3.47 | C
+
 14.The grade point averages for 10 randomly selected students in a statistics class with 125 students are listed below. 
 2.0 3.2 1.8 2.9 0.9 4.0 3.3 2.9
 What is the effect on the width of the confidence interval if the sample size is increased to 20?
@@ -105,16 +125,19 @@ A. It is impossible to tell without more information.
 B. The width increases.
 C. The width decreases.
 D. The width remains the same. | A
+
 15.Lance Walker owns a construction company and has designed a gazebo. He has estimated the time needed for two employees to build the gazebo to be 14 hours. Lance would like to know if the mean time is less than 14 hours. Fifty gazebos were built, and the sample mean was 12.5 hours. Set up the null and alternative hypotheses for the test.
 (i) Ho µ = 14, H1: µ< 14
 (ii) Ho: µ= 14, H1: µ khac 14
 (iii) Ho: µ = 12.5, H1: µ< 12.5
 (iv) Ho: 11 = 12.5, H1: µ khac 12.5 | C
+
 1.When calculating a confidence interval for the standard deviation, which distribution is used? 
 A. Student's t-distribution
 B. Binomial distribution
 C. Normal distribution
 D. Chi-squares distribution | A
+
 2.A random sample of 20 observations was made on the diameter of spot welds and the corresponding weld shear strength. Given that r=0.75, what is the critical value if we want to test the hypothesis that
 Ho p=0 versus H1: p khac 0, use alpha = 0.02.
 A. 2.539
@@ -122,12 +145,14 @@ B. 2.214
 C. 2.552
 D. 2.205
 E. None of the other choices is correct | c
+
 4.A researcher at a major hospital wishes to estimate the proportion of the adult population of the United States that has high blood pressure. How large a sample is needed in order to be 99% confident that the sample proportion will not differ from the true proportion by more than 4%?
 A None of the other choices is correct 
 B. 2073 
 C. 17 
 D. 1037 
 E. 849 | D
+
 5.It is believed that, the average numbers of hours spent studying per day (HOURS) during undergraduate education should have a positive linear relationship with the starting salary (SALARY, measured in thousands of dollars per month) after graduation. Given below is the Excel output from regressing starting salary on number of hours spent studying per day for a sample of 51 students.
 NOTE: Some of the numbers in the output are purposely erased.
 The error sum of squares (SSE) of the above regression is
@@ -136,12 +161,14 @@ B. 427.0798
 C. 1.8782 
 D. 335.0472 
 E. 92.0326 | E
+
 6:Suppose you want to test the claim that µ # 3.5. Given a sample size of n = 41 and a level of significance of alpha = 0.10, when should you reject Ho?
 A. Reject Ho if the standardized test statistic is greater than 2.575 or less than -2.575.
 B. None of the other choices is correct 
 C. Reject Ho if the standardized test statistic is greater than 1.96 or less than -1.96 
 D. Reject Ho if the standardized test statistic is greater than 2.33 or less than -2.33 
 E. Reject Ho if the standardized test statistic is greater than 1.645 or less than-1.645. | E
+
 7: Suppose that n = 100 random samples of water from a fresh water lake were taken and the calcium concentration (milligrams per liter) measured. The 95% confidence interval on the mean calcium concentration is (0.49, 0.82). Which of the following statement is true?
 
 (i) The 99% confidence interval from the same sample data is longer. (ii) The sample mean is 0.655
@@ -152,12 +179,14 @@ B. None of the other choices is correct
 c.(i) and (ii) 
 D. (i) 
 E. (ii) | C
+
 10.Of 1000 randomly selected cases of lung cancer. 800 resulted in death within 12 years. Using the point estimate of p obtained from this sample, what sample size is needed to be 95% confident that the error in estimating the true value of p is less than 0.03?
 A. 684
 B. None of the other choices is correct 
 C. 683 
 D. 484 
 E 485 | C
+
 13.The data below are the final exam scores of 3 randomly selected statistics students and the number of hours they studied for the exam. Calculate the correlation coefficient
 Hours, X: 8 10 6 
 Scores.y: 72 87 66 
@@ -166,24 +195,28 @@ B. 0.654
 C. None of the other choices is correct 
 D. 0.971 
 E 0.991 | x
+
 3.A manufacturer of golf equipment wishes to estimate the number of left-handed golfers. How large a sample is needed in order to be 95% confident that the sample proportion will not differ from the true proportion by more than 4%? A previous study indicates that the proportion of left-handed golfers is 10%.
 A. 241
 B. 217
 C. None of the other choices is correct 
 D. 15
 E. 153 | x
+
 A major department store chain is interested in estimating the average amount its credit card customers spent on their first visit to the chain's new store in the mall. Fifty credit card accounts were randomly sampled and analyzed with the mean 80$ Construct a 95% confidence interval for the average amount its credit card customers spent on their first visit to the chain's new store in the mall, assuming that the amount spent follows a normal destnbution with the population standard deviation of 20$
 A (75 25, 84.75) 
 B (74 31. 85 69) 
 C. (7533 84 67) 
 D. None of the other choices is correct 
 E (74.46, 65 54) | x
+
 Past experience indicates that the time for high school senion to complete a standardized test is a nommal random variable with a mean of 35 minutes. If a random sample of 20 high school se niors took an average of 33.1 minutes to complete this test with a standard deviation of 4.3 minutes, test the hypothesis at the 0.025 level of significance that = 35 minutes against the alternative that µ < 35 minutes
 A to = -0.099 fail to reject Ho
  B to=-0099, reject Ho 
 C to =-198, reject Ho 
 D to=-198. fail to repect Ho
 E None of the other choices is correct | C
+
 Suppose we have the following information from a simple regression
 n = 20
 Σxi = 23.92; Σyi = 1843.21;
@@ -194,11 +227,13 @@ B 1610.53
 C None of the other choice is correct 
 D 158.56 
 E 173.37 | E
+
 If an economist wishes to determine whether there is evidence that average family income in a community exceeds $25,000...................... 
 A None of the other choices is correct 
 B a two-tailed test should be utilized 
 C a one-tailed test should be utilized 
 D either a one-tailed or two-tailed test could be used with equivalent results. | C
+
 An article described a study of investigating the relationship between the age (x) and length(y) of 5 captured dugongs:
 X 1.0 1.5 1.5 2.5 4.0
 Y 1.80 1.85 1.87 2.02 2.27
@@ -208,6 +243,7 @@ B. 0.9982
 C 0.1595 
 D. 0.1455 
 E 1.6271 | x
+
 A sample of 250 accidents showed that 140 were caused by drunk driving. 
 Let Z0.025 = 1.96, Z0.05 = 1.645. 
 Use the data to test
@@ -217,6 +253,7 @@ A. None of the other choices is correct
 B. Fail to reject Ho 
 C Roject Ho 
 D Not determined | D
+
 A university dean is interested in determining the proportion of students who receive some sort of financial aid. Rather than examine the records for all students, the dean randomly selects 200 students and finds that 118 of them are receiving financial aid Use a 95% confidence interval to estimate the true proportion of students on financial aid.
 A
 (0.585, 0.595)
@@ -224,6 +261,7 @@ B. (0.588.0.592 )
 C None of the other choices is correct 
 D. (0.522. 0.658) 
 E. (0.116. 1.064) | D
+
 Suppose we have the following information from a simple regression:
 n=5, SSe= 7.4, x = 4 and Sxx = 20.8.
 What is the value of the estimated standard error of the intercept, se(Bo)?
@@ -232,12 +270,14 @@ B.1.55
 C 4.02
 D. None of the other choices is true
 E 2.23 | B
+
 weights of women in one age group are normally distributed with a standard deviation of 13 lb. A researcher wishes to estimate the mean weight of all women in this age group Find how large a sample must be drawn in order to be 90 percent confident that the sample mean will not differ from the population mean by more than 3.5 lb
 A. 23
 B. 44
 C. None of the other choices is correct
 D.38
 E.32 | D
+
 Listed below are the top 10 salaries (in millions of dollars) of television personalities in a recent year
 38 36 35 27 15 13 12 10 9.6 8.4
 We want to construct a 98 percent two-sided confidence interval on the vanance, find the critical values.
@@ -246,18 +286,21 @@ B 21.67 and 2.09
 C. 19.68
 D. None of the other choices is correct
 E 19.68 and 2.53 | B
+
 A golfer would like to test the hypothesis that the variance of his golf score equals 12.0 A random sample of 25 rounds of golf had a sample standard deviation of 4.6. The test statistic for this hypotheses test would be ................
 A 42.32
 B 45.66 
 C 30.15 
 D None of the other choices is true 
 E 12.57 | A
+
 Suppose you want to test the claim that µ # 31.5, with known ϭ. If the sample size is n=81 and the level of significance alpha=0.1, when should you reject H0?
 AReject Hof the test statistic is greater than 2.575 or less than -2.575
 B. None of the other choices is correct 
 C. Roject Ho if the test statistic is greater than 1.645 or less than - 1.645
 D. Reject HO if the test statistic is greater than 2.33 or less than -2.33
 E Reject H if the test statistic is greater than 1.96 or less than-1.96 | C
+
 To test the null hypothesis
 Ho: µ = 1000, H1: µ < 1000 at alpha = 0.01,
 a random sample of n = 17 observations is selected from a normal population. Specify the rejection region.
@@ -265,6 +308,7 @@ a random sample of n = 17 observations is selected from a normal population. Spe
 (ii) to < -2.583
 (iii) to < 2.583
 (iv) to < -2.921 | (ii)
+
 The weight and blood pressure of 4 random selected wo age 25-30 are shown in following table:
 Weight 60 45 58 53
 BP 125 100 110 100
@@ -274,35 +318,41 @@ B. r=0.802, negative correlation
 C. r= -0.802, negative correlation
 D. r=-0.802, positive correlation 
 E. r=0.802. positive correlation | E
+
 Suppose we want to test
 Ho: µ = 0.80/ H1: µ # 0.80, alpha =0.05.
 Specify the form of the rejection region assuming that the sample size will be sufficient to guarantee the approximate normality of the sampling distribution of x.
 (i) Zo <- 1.645
 (ii) Zo > 1.96
 (iii) |zo|> 1.645 | x
+
 A teacher wants to report the most fail rate on a test with 90% confidence, construct the appropriate one-sided confidence interval. Assume that a simple random sample of 58 students results in 6 who fail the test.
 (i) p > 0.155
 (ii) p< 0.052
 (iii) p < 0.155
 (iv) p2 > 0.052 | iii
+
 A study is to be conducted of the percentage of homeowners who own at least two television sets. How large a sample is required if we wish to be 99% confident that the error in estimating this quantity is less than 0.04?
 A None of the other choices is correct
 B. 1041 
 C. 848 
 D. 1040
 E. 849 | B
+
 Construct a 95% confidence interval for the population standard deviation of a random sample of 15 men who have a mean weight of 165.2 pounds with a standard deviation of 10.3 pounds. Assume the population is normally distributed
 A. (7.9, 15.0) 
 B. (56.9, 263.9) 
 C. None of the other choices is correct 
 D. (7.5, 16.2) 
 E. (2.3, 5.1) | B
+
 Which of the following situations is NOT a correctly stated hypothesis testing problem?
 (i)Ho: µ= 30, H1: µ # 30
 (ii) H1: µ#25, H1: µ= 25
 (iii) Ho: x = 30. H1: µ# 30 
 (IV) Ho: ϭ=0.05, H1:ϭ#0.05 
 (v) Ho: p=0.5, H1: p#0.6 | ii , iii
+
 Find the critical value for a two-tailed test
 H1 : µ#10, alpha = 0.01, n = 30. 
 Assume that the data are normally distributed
@@ -311,23 +361,27 @@ B. 1.96; -1.96
 C. None of the other choices is correct
 D. 2.756; -2.756
 E. 1.645; -1.645 | E
+
 In a regression analysis if SSe=180 and SSr=450, then the coefficient of determination is............
 A. 0.7
 B. 0.4
 C. None of the other choice is correct 
 D. 0.3 
 E. 0.6 | C
+
 The National Center for Education Statistics would like to test the hypothesis that the proportion of Bachelor's degrees that were earned by women equals 0.60. A random sample of 140 college graduates with Bachelor degrees found that 75 were women. The National Center for Education Statistics would like to set the significant level to be 0.10. What is the value of the test statistic for this hypothesis test?
 A. 2.18
 B. None of the other choices is correct
 C. -1.21 
 D. 1.43 
 E. -1.55 | B
+
 Which of the following statement is FALSE?
 A. None of the other choices is correct
 B. Other things being equal, as the confidence level for a confidence interval increases, the width of the interval increases.
 C. A point estimate consists of a single sample statistic that is used to estimate the true population parameter.
 D. A population parameter is used to estimate a confidence interval. | B
+
 Eight students in a mathematics anxiety workshop are given a questionnaire on math anxiety (y) and an inventory test on basic arithmetic skills (x). Given that
 Σxi = 492: Σyi= 379; Σx^2i = 32894;Σy^2i = 20115: Σxiyi = 21087
 Find the y-intercept of the estimated regression line of y on x.
@@ -336,6 +390,7 @@ B. 97.871
 C. 21.146 
 D. 63.647 
 E. 15.439 | A
+
 The data below are the temperatures on randomly chosen days during a summer class and the number of absences on those days. Find the equation of the regression line for the given data.
 Temperature x: 73 85 91
 Number of absences y: 3 8 10
@@ -343,33 +398,1992 @@ Number of absences y: 3 8 10
 (ii) ġ=0.449x+30.27
 (iii) ģ=0.532x-0.449
 (iv) y=0.393x-25.067 | (iv)
+
 Expedia would like to test the hypothesis that the proportion of United Airline flights that arrive on-time is less than 0.80. A random sample of 110 United Airline flights found that 82 arrived on-time. Expedia would like to set the significant level to be 0.02. The test statistic for this hypothesis test would be_.............
 A. -2.77
 B. -1.43 
 C. None of the other choices is correct 
 D. -1.87
 E. -2.30 | B
+
 A restaurant claims that the standard deviation of the waiting time in line is less than 1.2 minutes. A random sample of 35 customers has a mean of 5.4 minutes with a standard deviation of 1.1 minute. Find the test statistic to test the restaurant's claim at the significant level of 0.1.
 A. 13.4 
 B. 12.8 
 C. 28.6 
 D. 22.5
 E. None of the other choices is correct | C
+
 Which of the following is FALSE about the slope of regression line?
 A. The slope of estimated regression line has Student's t-distribution with degree of freedom n-2
 B. The slope of estimated regression line has Student's t-distribution with degree of freedom n-1
 C. The slope of estimated regression line is an unbiased estimator for the slope of population regression line | B
+
 1. Of 375 randomly selected medical students, 30 said that they planned to work in a rural
 community. Find a 95% confidence interval for the true proportion of all medical students who plan to work in a rural community. | 5.25%< p < 10..7%
+
 2. How many business students must be randomly selected to estimate the mean monthly
 earnings of business students at one college? We want 95% confidence that the sample mean is within $129 of the population mean, and the population standard deviation is known to be $595 | 81.7 (82)
+
 3.A savings and loan association needs information concerning the checking account
 balances of its local customers. A random sample of 14 accounts was checked and yielded a mean balance of $664.14 and a standard deviation of $297.29. Find a
 98% upper confidence interval for the true mean checking account balance for local customers | m < 845.30$
-4.
-A manufacturer considers his production process to be out of control when defects exceed 3%. In a random sample of 285 items, the defect rate is 5.9% but the manager claims that this is only a sample fluctuation and production is not really out of control. At the 0.01 level of significance, test the manager's claim. | manager's claim. is NOT true
+
+4.A manufacturer considers his production process to be out of control when defects exceed 3%. In a random sample of 285 items, the defect rate is 5.9% but the manager claims that this is only a sample fluctuation and production is not really out of control. At the 0.01 level of significance, test the manager's claim. | manager's claim. is NOT true
+
 5. A machine dispenses a liquid drug into bottles in such a way that the standard deviation
 of the contents is 81 milliliters. A new machine is tested on a sample of 24 containers and the standard deviation for this sample group is found to be 26 milliliters. At the 0.05 level of significance, test the claim that the amounts dispensed by the new machine have a
 smaller standard deviation. | 2.37 =>reject H0 =>ϭ < 81
+
 The computer output of an F-test is displayed as below:
 Fill in the missing values, and test the significance of regression at a = 3%. | 7.78 => reject H0
+
+D <<-- A. None of the other choices is true
+B. 3.47
+C. 4.02
+D. 0.37
+E. 2.15
+
+B <<-- A. 95%
+B. 90%
+C. None of the other choices is correct
+D. 99%
+E. 80%
+
+E <<-- Data that describe a characteristic about a population is known as a _____
+
+A. statistic
+B. None of the other choices is true
+C. survey
+D. sample
+E. parameter
+
+C <<-- Let X be the number of freshmen in the required course, MAS291. Identify whether X is discrete or continuous.
+
+A. None of the other choices is correct
+B. Continuous
+C. Discrete
+
+B <<-- Transportation officials tell us that 70% of drivers wear seat belts while driving. Find the probability that more than 579 drivers in a sample of 800 drivers wear seat belts.
+
+Let P(Z < 1.5) = 0.0668; P(Z<0.25) = 0.6
+
+A. 0.0668
+B. 0.9332
+C. None of the other choices is correct
+D. 0.4
+E. 0.6
+
+B <<-- A basketball player is asked to shot free throws in sets of four. The player shoots 100 sets of 4 free throws. The probability distribution for making a particular number of free throws is given below. Determine the standard deviation for this discrete probability distribution.
+
+X P(X)
+0 0.02 
+1 0.07 
+2 0.22 
+3 0.27 
+4 0.42
+
+A. 1.21 
+B. 1.05
+C. 0.28
+D. 1.10
+E. None of the other choices is correct
+
+A <<-- A. Fail to reject Ho
+B. Reject Ho
+
+C <<-- A. 0.692
+B. 0.962
+C. -0.962
+D. None of the other choices is correct
+E. -0.692
+
+E <<-- A. 0.3159
+B. 0.5682
+C. None of the other choices is correct
+D. 0.2415
+E. 0.0183
+
+C <<-- A method of gathering data when subjects are exposed to certain treatments and the data of interest is recorded is known as
+
+A. None of the other choices is correct
+B. observation.
+C. experiments.
+D. retrospective
+
+D <<-- Medicare would like to test the hypothesis that the average monthly rate for one-bedroom assisted-living facility is equal to $3,300. A random sample of 12 assisted living facilities had an average rate of $3,690 per month and a standard of $530. It is believed that the monthly rate for onebedroom assisted-living facility is normally distributed. Use the signinicance level of 0.05 for this hypothesis test, what is the value of the test statistic?
+
+A. -1.37
+B. None of the other choices is true
+C. -2.16
+D. 2.55
+E. 2.21
+
+B <<-- The residuals represent
+
+A. None of the other choices is correct
+B. the difference between the actual Y values and the predicted Y values.
+C. the difference between the actual y values and the mean of Y.
+D. the square root of the slope.
+E. the predicted value of Y for the average X value.
+
+C <<-- Construct a 95% confidence interval for the population standard deviation of a random sample of 15 men who have a mean weight of 165.2 pounds with a standard deviation of 10.3 pounds. Assume the population is normally distributed.
+
+A. (7.9, 15.0)
+B. (56.9, 263.9) 
+C. (7.5, 16.2)
+D. None of the other choices is correct
+E. (2.3, 5.1)
+
+D <<-- A. 0.2
+B. 0.16
+C. 0.02
+D. 0.45
+E. None of the other choices is correct
+
+D <<-- Suppose X is a uniform random variable over the interval [40, 50). Find the probability that a randomly selected observation exceeds 43.
+
+A. 0.3
+B. 0.1
+C. None of the other choices is correct
+D. 0.7
+E. 0.9
+
+B <<-- Trang Tien is a producer of ice cream and would like to test the hypothesis that the average consumes more than 17 ounces of ice cream per month. A random sample of 15 Vietnamese people was found to consume an average of 18.2 ounces of ice cream last month. The standard deviation for this sample was 3.9 ounces. What is the test statistic for this hypothesis test?
+
+A. None of the other choices is true
+B. 1.19
+C. 3.01
+D. 1.83
+E. 2.49
+
+B <<-- A card is drawn from a standard deck of 52 playing cards. Find the probability that the card is an ace or a king.
+
+A. 1/13
+B. 2/13
+C. 4/13
+D. None of the other choices is correct
+E. 8/13
+
+A <<-- A pair of dice is thrown twice. What is the probability of getting totals of 7 and 11?
+
+A. 1/54
+B. 1/24
+C. None of the other choices is correct
+D. 1/18
+E. 1/14
+
+B <<-- The probability density function of the length of a hinge for fastening a door is f(x) = 1 for 74 <x< 75. Find P(X < 74.3).
+
+A. 0.81
+B. 0.30
+C. 0.36
+D. 0.74
+E. None of the other choices is correct
+
+D <<-- The probability of a successful optical alignment in the assembly of an optical data storage product is 0.8. Assume the trials are independent. What is the probability that the first successful alignment requires exactly four trials?
+
+A. 0.6756
+B. 0.1262
+C. None of the other choices is correct
+D. 0.0064
+E. 0.4332
+
+B <<-- An airline knows from experience that the distribution of the number of suitcases that get lost each week on a certain route is approximately normal with u = 15.5 and o = 3.6. What is the probability that during a given week the airline will lose less than 20 suitcases? 
+Let P(Z < -1.25) =0.1056, P(Z < -0.37) =0.3944, P(Z < -0.24) =0.4040,P(Z < 1.25) =0.8944.
+
+A. 0.4040
+B. 0.8944
+C. 0.3944
+D. 0.1056
+E. None of the other choices is correct
+
+D <<-- Suppose X has an exponential distribution with λ = 2. Which in the following statements is TRUE?
+
+A. P(X ≥ 2) = 0.0183
+B. P(X ≤ 1) = 0.8647
+C. P(X ≤ 0) = 0
+D. All of the others
+
+E <<-- At a computer manufacturing company, the actual size of computer chips is normally distributed with a mean of 1 centimeter and a standard deviation of 0.1 centimeter. A random sample of 12 computer chips is taken. What is the probability that the sample mean will be between 0.99 and 1.01 centimeters?
+
+Let P(Z < 0.1) = 0.54, P(Z < 0.346) = 0.64, P(Z < -0.346) = 0.37.
+
+A. 0.73
+B. 0.63
+C. 0.37
+D. None of the other choices is correct
+E. 0.27
+
+D <<-- Suppose that X has a discrete uniform distribution on the integers 10 to 99. Which of the followings are true?
+(i) P(X> 49) = 5/9
+(ii) E(2X) = 109.
+
+A. (i) only
+B. None of the other choices is correct
+C. Both (i) and (ii)
+D. (ii) only
+
+E <<-- A laboratory tested 70 chicken eggs and found that the mean amount of cholesterol was 190 milligrams. Assume that the standard deviation is 15.1 milligrams. Construct a 95% lower confidence bound for the true mean cholesterol content of all such eggs.
+
+A. 185.28
+B. 187.03
+C. None of the other choices is correct
+D. 184.79
+E. 186.46
+
+E <<-- A group of 10 individuals are used for a biological case study. The group contains 3 people with blood type 0, 7 with blood type A. What is the probability that a random sample of 5 will contain 1 person with blood type 0, 4 people with blood type A.
+
+A. 0.48
+B. 0.45
+C. 0.51
+D. None of the other choices is correct
+E. 0.42
+
+B <<-- Construct a 98% confidence interval for the population mean. Assume the population has a normal distribution. A study of 14 bowlers showed that their average score was 192 with a standard deviation of 8
+
+A. (222.3, 256.1)
+B. (186.3, 197.7) 
+C. (115.4, 158.8)
+D. (328.3, 386.9)
+E. None of the other choices is correct
+
+D <<-- A. -21.5x + 31.17
+B. 21.5+31.17x
+C. None of the other choices is correct
+D. -21.5+31.17x
+E. 21.5x+31.17
+
+C <<-- A group of students were asked if they carry a credit card. The responses are listed in the table.
+If a student is selected at random, find the probability that he or she owns a credit card given that the student is a freshman.
+Round your answer to three decimal places.
+
+A. 0.600
+B. 0.240
+C. 0.400
+D. None of the other choices is correct
+E. 0.393
+
+D <<-- A common rule of thumb for determining how many classes to use when developing a frequency distribution with classes is:
+
+A. no fewer than 6 classes.
+B. None of the other choices is correct
+C. equal to 0.25 times the number of data values
+D. between 5 and 20 classes.
+
+B <<-- A. None of the other choices is correct
+B. (ii)
+C. (iii)
+D. (i)
+
+D <<-- Given two events A and B with P(A) = 0.4, P(B) = 0.5. Find P(AUB).
+
+A. 0.9, if A and B are independent.
+B. All of the other choices are incorrect
+C. 0.7, if A and B are disjoint.
+D. 0.7, if A and B are independent.
+E. 0.2, if A and B are independent
+
+A <<-- Find the mean for the binomial distribution which has the stated values of n=20 and p=0.6. Round answer to the nearest tenth.
+
+A. 12.0
+B. 11.5
+C. 12.7
+D. None of the other choices is correct
+E. 12.3
+
+A <<-- Suppose a 95% confidence interval for population mean turns out to be (1000, 2100). To make more useful inferences from the data, it is desired to reduce the width of the confidence interval. Which of the following will result in a reduced interval width?
+
+A. Both increase the sample size and decrease the confidence level.
+B. Decrease the confidence level.
+C. Increase the sample size.
+D. Both increase the confidence level and decrease the sample size.
+
+C <<-- The random variable X represents the number of credit cards that adults have along with the corresponding probabilities. Find the mean and standard deviation. 
+
+X P(X)
+0 0.49 
+1 0.05 
+2 0.32 
+3 0.07 
+4 0.07
+
+A. mean: 1.39; standard deviation: 0.64
+B. mean: 1.18; standard deviation: 0.64
+C. mean: 1.18; standard deviation: 1.30
+D. None of the other choices is correct
+E. mean: 1.39; standard deviation: 0.80
+
+A <<-- The probability that a tennis set will go to a tie-breaker is 17%. What is the probability that two of three sets will go to tie-breakers?
+
+A. 0.072
+B. None of the other choices is correct
+C. 0.028
+D. 0.351
+E. 0.170
+
+A <<-- Of 1000 randomly selected cases of lung cancer, 731 resulted in death within 10 years. Calculate a 95% confidence interval on the death rate from lung cancer.
+
+A. (0.703; 0.758)
+B. (0.307; 0.751)
+C. (0.707; 0.754)
+D. None of the others
+
+B <<-- A sample is used to obtain a 95% confidence interval for the mean of a population. The confidence interval goes from 15 to 19. If the same sample had been used to test the null hypothesis that the mean of the population is equal to 20 versus the alternative hypothesis that the mean of the population differs from 20, the null hypothesis could be rejected at a level of significance of 0.05.
+
+A. False
+B. True
+
+E <<-- A group of 40 bowlers showed that their average score was 192 with a population standard deviation of 8. Assume that bowler's scores are normally distributed. Find the 95% confidence interval of the mean score of all bowlers.
+
+A. (186.5, 197.5)
+B. None of the other choices is correct
+C. (188.5, 195.6)
+D. (187.3, 196.1)
+E. (189.5, 194.5)
+
+E <<-- Consider the following sample data:
+25 11 6 4 2 17 9 6
+For these data the sample mean is:
+
+A. 3
+B. 7
+C. None of the other choices is correct
+D. 8
+E. 10
+
+C <<-- A golfer would like to test the hypothesis that the variance of his golf score equals 12.0. A random sample of 25 rounds of golf had a sample standard deviation of 4.6. The test statistic for this hypothesis test would be:
+
+A. None of the other choices is true
+B. 30.15
+C. 42.32 
+D. 12.57 
+E. 45.66
+
+A <<-- The average score of all golfers for a particular course has a mean of 79 and a standard deviation of 5. Suppose 100 golfers played the course today. Find the probability that the average score of the 100 golfers exceeded 80.
+
+Let P(Z < 2) = 0.9772, P(Z <0.2) = 0.5793.
+
+A. 0.0228
+B. None of the other choices is correct
+C. 0.4772
+D. 0.1293
+E. 0.3707
+
+D <<-- A. 2.45
+B. 9.85
+C. 1.14
+D. None of the other choices is true
+E. 7.35
+
+B <<-- A. (iii)
+B. (ii)
+C. (iv)
+D. None of the other choices is correct
+E. (i)
+
+E <<-- Two white mice mate. The male has both a white and a black fur-color gene. The female has only white fur-color genes. The fur color of the offspring depends on the pairs of fur-color genes that they receive. Assume that neither the white nor the black gene dominates. List the possible outcomes. W = white and B = black. Create the sample space of possible outcomes.
+
+A. WW, WW
+B. None of the other choices is correct
+C. WB, BW
+D. WW, BB
+E. WW, BW
+
+E <<-- Each morning, a teacher quizzed his class with 20 geography questions. The class marked them together and everyone kept a record of their personal scores. As the year passed, each student tried to improve his or her quiz marks. Every day, Elliot recorded his quiz marks on a stem and leaf plot. This is what his marks looked like plotted out:
+
+Find the mode of the data
+A. 15
+B. None of the other choices is correct
+C. 25
+D. 20
+E. 20 and 15
+
+E <<-- A. 3/4
+B. 2
+C. 1
+D. None of the other choices is correct
+E. 1/3
+
+E <<-- A. 3.47
+B. 4.02
+C. None of the other choices is true
+D. 2.15
+E. 0.37
+
+a <<-- A. 8
+B. None of the other choices is correct
+C. 10
+D. 7
+E. 9
+
+E <<-- Two white mice mate. The male has both a white and a black fur-color gene. The female has only white fur-color genes. The fur color of the offspring depends on the pairs of fur-color genes that they receive. Assume that neither the white nor the black gene dominates. List the possible outcomes. W = white and B = black. Create the sample space of possible outcomes.
+
+A. WW, WW
+B. WB, BW
+C. None of the other choices is correct
+D. WW, BB
+E. WW, BW
+
+d <<-- A. 0.2
+B. None of the other choices is correct
+C. 0
+D. 1
+E. 0.9
+
+c <<-- A. 4.16 and 3.299
+B. None of the others 
+C. 0.00416 and 0.3300 
+D. 3.299 and 0.416
+
+A <<-- Which of the following is a discrete quantitative variable?
+
+A. The number of employees of an insurance company.
+B. The distance you drove yesterday.
+C. The volume of water released from a dam.
+D. The Dow Jones Industrial average.
+
+A <<-- Let X represent the amount of time it takes a student to park in the library parking lot at the university. If we know that the distribution of parking times can be modeled using an exponential distribution with a mean of 4 minutes, find the probability that it will take a randomly selected student more than 10 minutes to park in the library lot.
+
+
+A. 0.082085
+B. None of the other choices is correct
+C. 0.329680
+D. 0.917915
+E. 0.670320
+
+F ( 0.246955) <<-- A. 0.03 
+B. 2.89
+C. 0.02
+D. 0.12 
+E. 0.17
+F. None of them
+
+A <<-- A random sample of 40 students has a mean annual earnings of 3120. Assume the population standard deviation is 677. Construct the confidence interval for the population mean. Use a 95% confidence level.
+
+
+A. (2910, 3330)
+B. (210, 110) 
+C. (4812, 5342) 
+D. (1987, 2346)
+E. None of the other choices is correct
+
+c <<-- Entertainment Software Association would like to test if the standard deviation for the age of gamers is equal to 5.0 years. The standard deviation for the age from a random sample of 20 gamers is 5.6 years. Using the significance level of 0.10, find the lower critical value for
+this hypothesis test. 
+
+A. 11.651
+B. None of the other choices is true
+C. 10.117
+D. 13.240
+E. 12.443
+
+e <<-- A Web site randomly selects one product among 5 products to discount each day. The color printer of interest to you is discounted today. What is the expected number of days until this product is again discounted?
+
+A. 20
+B. None of the other choices is correct
+C. 15
+D. 10
+E. 5
+
+d <<-- A. 0
+B. 0.76
+C. None of the other choices is correct
+D. 0.6
+E. 1
+
+c <<-- A. 0.492
+B. 12.961 
+C. 9.209 
+D. 18.490
+E. None of the other choices is correct
+
+e <<-- At a computer manufacturing company, the actual size of computer chips is normally distributed with a mean of 1 centimeter and a standard deviation of 0.1 centimeter. A random sample of 12 computer chips is taken. What is the probability that the sample mean will be below 0.95 centimeters?
+Let P(Z < -1.73) = 0.04, P(Z <-0.34) = 0.36 and P(Z < 0) = 0.5.
+
+A. 0.96
+B. 0.64
+C. 0.36
+D. None of the other choices is correct
+E. 0.04
+
+b <<-- A. Reject HO if the test statistic is greater than 1.96 or less than -1.96
+B. Reject HO if the test statistic is greater than 1.645 or less than -1.645.
+C. Reject HO if the test statistic is greater than 2.33 or less than -2.33
+D. Reject Ho if the test statistic is greater than 2.575 or less than -2.575.
+E. None of the other choices is correct
+
+E <<-- A CD has 12 tracks on it and these are to be played in random order. Suppose that you have time to listen to only 5 tracks before you go out. What is the probability that the 5 played will be the first 5 in order on the box?
+
+A. 1/3991680
+B. 5/12
+C. 1/792
+D. None of the other choices is correct
+E. 1/95040
+
+C <<-- Suppose that P(A|B) = 0.6, P(A) = 0.5 and P(B) = 0.1. Find the value of P(B|A).
+
+A. 0.20 
+B. 0.30 
+C. 0.12
+D. None of the other choices is correct
+E. 0.06
+
+B <<-- Let X be a uniform random variable over the interval [1, 9]. What is the probability that the random variable X has a value less than 6?
+
+A. None of the other choices is correct
+B. 0.625
+C. 0.400 
+D. 0.875 
+E. 0.500
+
+C <<-- A quality-control engineer inspects a random sample of 3 batteries from each lot of 24 car batteries that is ready to be shipped. If such a lot contains 6 batteries with slight defects, what is the probability that the inspector's sample will contain only one of the batteries with defects?
+
+A. 0.1832
+B. 0.5464
+C. 0.4536
+D. None of the other choices is correct
+E. 0.8168
+
+A <<-- A. (I)
+B. (II)
+C. (III)
+D. None of the other choices is true
+
+A <<-- Suppose a sample of n = 15 items is drawn from a population of manufactured products and the weight, X, of each item is recorded. Prior experience has shown that the weight has a probability distribution with mean = 6 ounces and standard deviation = 2.5 ounces. Which of the following is true about the sampling distribution of the sample mean if a sample of size 15 is selected?
+
+A. The mean of the sampling distribution is 6 ounces.
+B. All of the others are correct.
+C. The shape of the sample distribution is approximately normal.
+D. The standard deviation of the sampling distribution is 2.5 ounces.
+
+B <<-- A. 0.4
+B. 0.3
+C. 0.5 
+D. 0.2
+E. None of the other choices is correct
+
+E <<-- A. None of the other choices is correct
+B. 0.0294
+C. 0.0559 
+D. 0.0668
+E. 0.0359
+
+C <<-- Choose the correct phrase to fill in the blank:
+The _______ for a particular class is equal to the class frequency divided by the total number of observations.
+
+A. class percentage
+B. bar graph
+C. class relative frequency
+D. stem-and-leaf display
+E. None of the other choices is correct
+
+B <<-- Consider the following sample data:
+25 11 6 4 2 17 9 6
+For these data the median is_______________
+
+A. 10
+B. 7.5
+C. None of the other choices is correct
+D. 3.5
+
+D <<-- It is desired to estimate the average total compensation of CEOs in the Service industry. Data were randomly collected from 35 CEOs and the 94% confidence interval was calculated to be (3451260, 7536180). Which of the following interpretations is correct?
+
+A. 94% of the sampled total compensation values fell between 3451260 and 7536180
+
+B. We are 94% confident that the mean of the sampled CEOs falls in the interval 3451260 to 7536180
+
+C. In the population of Service industry CEOs, 94% of them will have total compensations that fall in the interval 3451260 to 7536180
+
+D. We are 94% confident that the average total compensation of all CEOs in the Service industry falls in the interval 3451260 to 7536180
+
+D <<-- The number of calls received by a car towing service averages 21.6 per day (per 24-hour period). After finding the mean number of calls per hour, find the probability that in a randomly selected hour the number of calls is 4.
+
+A. 0.01389
+B. None of the other choices is correct
+C. 0.01000 
+D. 0.01111
+E. 0.01223
+
+C <<-- In a simple linear regression model the slope coefficient measures________
+
+A. None of the other choices is correct
+B. the ratio Y/X
+C. the change in Y which the model predicts for a unit change in X
+D. the change in X which the model predicts for a unit change in Y
+E. the value of Y for any given value of X
+
+B <<-- Suppose data is obtained from 20 pairs of (x,y) and the sample correlation coefficient is 0.7. Find the test statistic if you want 95% confident that there exist a significant positive linear correlation between x and y.
+
+A. None of the other choice is correct
+B. 4.16
+C. 4.27
+D. 0.05
+E. 4.38
+
+A <<-- A batch of 50 machined parts contains 5 that do not conform to customer requirements. Determine the range of the random variable that is the number of parts that do not conform to customer requirements in a sample of 8 parts selected without replacement from the batch.
+
+A. {0, 1, 2, 3, 4, 5}
+B. None of the other choices is correct 
+C. {0, 1, ..., 8} 
+D. {0, 1, 2, ..., 50}
+
+C <<-- A. (I)
+B. (III)
+C. (IV)
+D. (II)
+
+B <<-- A salesperson knows that 20% of her presentations result in sales. Use the normal approximation formula for the Binomial distribution to find the probabilities that in the next 60 presentations at least 9 result in sales.
+
+Let P(Z < -1.13) = 0.1268 and P(Z < -0.81) = 0.2089.
+
+A. 0.7911
+B. 0.8732
+C. None of the other choices is correct
+D. 0.1241
+E. 0.6421
+
+C <<-- A polltaker asked graduating college seniors how many times they had given blood in the last year. The results of the survey are given in the table. The random variable X represents the number of times a person gave blood and P(x) represents the probability of selecting a graduating college who had given blood that percent of the time. What is the standard deviation for the number of times a person gave blood based on this poll?
+
+
+A. 2.23
+B. 1.40
+C. 1.16
+D. None of the other choices is correct
+E. 1.34
+
+A <<-- A private opinion poll is conducted for a politician to determine what proportion of the population favors decriminalizing marijuana possession. How large a sample is needed in order to be 99% confident that the sample proportion will not differ from the true proportion by more than 6%?
+
+A. 461
+B. 921
+C. 378
+D. None of the other choices is correct
+E. 11
+
+A <<-- For each of the following pairs of events, which are subsets of the set of all possible outcomes when a coin is tossed three times, choose the pair(s) is (are) independent.
+
+A. All of the others
+B. E1: the first toss comes up tail; E2: the second coin comes up head.
+C. E1: the first toss comes up tail; E2: first, second and third toss, come up head in a row
+D. E1: the second toss comes up tail; E2: second, and not third toss, come up head in a row
+
+B <<-- A. (iv)
+B. (i)
+C. (ii)
+D. (iii)
+E. None of the other choices is correct
+
+D <<-- Which of the following is the most frequently used measure of variation?
+
+A. The mode
+B. None of the other choices is correct
+C. The range
+D. The standard deviation
+
+E <<-- A survey of senior citizens at a doctor's office shows that 52% take blood pressure-lowering medication, 43% take cholesterol-lowering medication, and 5% take both medications. What is the probability that a senior citizen takes either blood pressure-lowering or cholesterol-lowering medication?
+
+A. 1
+B. None of the other choices is correct
+C. 0.85 
+D. 0.14
+E. 0.90
+
+B <<-- A. (iii)
+B. (ii)
+C. (i)
+D. (iv)
+
+C <<-- A. None of the other choices is correct
+B. 0.96875
+C. 0.875
+D. 0.3125
+E. 0.6875
+
+A <<-- A paper bag contains two red balls and one blue ball. A plastic bag contains three blue balls and one red ball. A coin is tossed. If it falls heads up, the paper bag is selected and a ball is drawn. If the coin falls tails up, the plastic bag is selected and a ball is drawn. If a red ball is selected, what is the probability that it came from the paper bag?
+
+A. 0.727
+B. 0.819
+C. None of the other choices is correct
+D. 0.338
+E. 0.543
+
+A <<-- Parking at a large university has become a very big problem. University administrators are interested in determining the average parking time (e.g. the time it takes a student to find a parking spot) of its students. An administrator inconspicuously followed 130 students and carefully recorded their parking times. Identify the sample of interest to the university administration.
+
+A. parking times of the 130 students
+B. location of the parking spot
+C. parking time of a student
+D. type of car (import or domestic)
+
+C <<-- You are dealt two cards successively without replacement from a standard deck of 52 playing cards. Find the probability that the first card is a two and the second card is a ten. Round your answer to three decimal places.
+
+A. 0.500
+B. 0.250 
+C. 0.006 
+D. 0.994
+E. None of the other choices is correct
+
+D <<-- The mean replacement time for a random sample of 12 microwave ovens is 8.6 years with a standard deviation of 2.7 years. Construct the 98% confidence interval for the population variance. Assume the data are normally distributed.
+
+A. (3.1, 22.5)
+B. None of the other choices is correct 
+C. (1.2, 9.7) 
+D. (3.2, 26.3) 
+E. (1.8, 5.1)
+
+E <<-- The random variable X represents the number of boys in a family of three children. Assuming that boys and girls are equally likely, find the mean and standard deviation for the random variable X.
+
+A. None of the other choices is correct
+B. mean: 2.25; standard deviation: 0.76
+C. mean: 1.50; standard deviation: 0.76
+D. mean: 2.25, standard deviation: 0.87
+E. mean: 1.50; standard deviation: 0.87
+
+D <<-- Construct a 90% confidence interval for the population mean. Assume the population has a normal distribution. A sample of 15 randomly selected students has a grade point average of 2.86 with a standard deviation of 0.78.
+
+A. (2.41, 3.42)
+B. None of the other choices is correct
+C. (2.37, 3.56) 
+D. (2.51, 3.21)
+E. (2.28, 3.66)
+
+C <<-- An engineering professional body estimates that 70% of the students taking undergraduate engineering courses are in favour of studying of statistics as part of their studies. If this estimate is correct, use the normal formula for Binomial distributions to approximate the probability that more than 700 undergraduate engineers out of a random sample of 1000 will be in favour of studying statistics.
+
+Let P(Z < 0.035 ) = 0.514; P(Z < 0) = 0.5.
+
+A. 0.514
+B. None of the other choices is correct
+C. 0.486
+D. 0.5
+E. 0.643
+
+B <<-- Jared was working on a project to look at global warming and accessed an Internet site where he captured average global surface temperatures from 1866. Which of the four methods of data collection was he using?
+
+A. Surveying
+B. Retrospective study
+C. Experimentation
+D. Observation
+
+C <<-- A. (ii)
+B. (i)
+C. (iv)
+D. None of the other choices is correct
+E. (v) 
+F. (iii)
+
+D <<-- A. None of the other choices is correct
+B. 2.5
+C. 4
+D. 1.25
+E. 2
+
+a <<-- Suppose data is obtained from 27 pairs of (x,y) and the sample correlation coefficient is 0.7.
+Test the hypothesis that H : ρ =0 agianst H :ρ≠0 with α =0.05. Let t =2.06.
+Select one:
+a. reject the null hypothesis
+b. do not reject the null hypothesis
+
+a, d <<-- The nine measurements that follow are furnace temperatures
+recorded on successive batches in a semiconductor
+manufacturing process: 953, 950, 948, 955, 951,
+949, 957, 954, 955. Which the following statement is FALSE?
+Select one or more:
+a. Median: 952.44
+b. Sample Standard Deviation: 3.09
+c. Sample Variance: 9.53
+d. Sample Mean: 953
+
+b <<-- If a psychologist observed that four 5-year-old children initiated 2, 4, 6, and 12 incidents of
+aggression during a play period, the mean number of aggressive incidents for this group of
+four children was
+Select one:
+a. 9
+b. 6
+c. 4
+d. None of the other choices is correct
+e. 5
+
+a <<-- The time between calls to a plumbing supply business is exponentially distributed with a
+mean time between calls of 15 minutes. What is the probability that there are no calls within
+a 45-minute interval?
+Select one:
+a. e^-3
+b. e^3
+c. e^-2
+d. None of others
+
+c <<-- Given the equation of a regression line is 1= 3.5x - 5.4, what is the
+best predicted value for y given x = - 1.2 .Assume that the variables x
+and y have a significant correlation.
+Select one:
+a. 12.3
+b. -6.9
+c. -9.6
+d. -12.3
+
+c <<-- Let C(n,k) be k-combination from n elements. You pick a bit string from the set of all bit
+strings of length ten. Which the following statement is TRUE ? .
+Select one:
+a. All of the others.
+b. P (the bit string begins and ends with 0) = 2^8/2^10
+c. P(the bit string has exactly two 1s) = C(10,2)/2^10
+d. P (the bit string has the sum of its digits equal to seven) = C(10,7)/2^10
+
+c, d <<-- In a particular production run, 20% of the chips are subjected to high levels of
+contamination, 30% to medium levels of contamination, and 50% to low levels of
+contamination. We have
+Select one or more:
+a. P(Not Fail | High) = 0.02
+b. P(Fail | Low) = 0.4995
+c. P(Not Fail | Medium) = 0.297
+d. P(Fail | Medium) = 0.003
+
+b <<-- The daily intakes of milk (in ounces) for ten randomly selected people were: 22.3 12.9 23.1
+26.3 10.8 26.8 27.4 29.7 19.0 19.9 Find a 99% confidence interval for the population
+standard deviation σ. Given that s^2 =39.18. Let X^2 (0,0059) = 23,59; X^2 (0,9959) = 1.73.
+Select one:
+a. [0.89, 3.40]
+b. [3.87, 14.28]
+c. None of the other choices is correct
+d. [3.74, 12.81]
+e. [3.87, 12.81]
+
+b <<-- Which statement is true for the scores of 1, 2, 3, 4, 5, 5, 7, 8, 9, and 10?
+Select one:
+a. The mean is less than the mode.
+b. The mean is greater than the median.
+c. The mode is greater than the median.
+d. The median is greater than the mean.
+
+b <<-- The national weather service says that the mean daily high temperature for October in a
+large Midwestern city is 56°F. A local weather service wants to test the claim of 56°F
+because it believes it is lower. A sample of mean daily high temperatures for October over
+the past 31 years yields =54°F and s=5.6°F. Test the claim at α=0.01 significance level.
+z(0.005) =2.58, z(0.01) =2.33
+Select one:
+a. I can say with 99 % confidence that the true mean temp is less than 56 F.
+b. I can not say with 99 % confidence that the true mean temp is less than 56 F.
+
+d <<-- A random sample of size n₁ =16 is selected from a normal population with a mean of 84 and
+a standard deviation of 8. A second random sample of size n₂ =9 is taken from another
+normal population with a mean of 80 and standard deviation 12. Let X₁ and X₂ be the two
+sample means. Find P(X₁ - X₂ ≤ 4.5).
+Let P(Z≤ 0.11)=0.5438; Z is a normal standard random variable.
+Select one:
+a. None of others.
+b. 0.4562
+c. 0.6438
+d. 0.5438
+e. 1
+
+a <<-- A normal population has mean 96 and variance 14. How large must be the random sample
+be if we want the standard error of the sample mean to be 1.5?
+Select one:
+a. 7
+b. 9
+c. 6
+d. 8
+e. None of others
+
+d <<-- Many people think that a national lobby's successful fight against gun control legislation is
+reflecting the will of a minority of Americans. A random sample of 4000 citizens yielded
+2250 who are in favor of gun control legislation. Estimate the true proportion of all
+Americans who are in favor of gun control legislation using a 90% confidence interval. Let `
+z_0.05 = 1.65 ; z_0.1 = 1.28`.
+Select one:
+a. (0.1577, 0.9673)
+b. None of the other choices is correct
+c. (0.4246, 0.4504)
+d. (0.5496, 0.5754)
+e. (0.0327, 0.8423)
+
+b <<-- Retrospective, Observational, Designed experiment are three basic methods of
+Select one:
+a. presentation data.
+b. collecting data.
+c. analyzing data.
+
+a <<-- In a factory manufacturing computer chips, when testing the product shipped, we choose
+random 600 ICs and there are 15 ICs unsatisfactory. Call p the rate of IC do not meet
+demand in the plant. Test H : p = 0.03 against H : p ≠ 0.03 using α = 0.05. Let z(0.025) =
+1.96; z(0.05) = 1.65.
+Select one:
+a. Do not reject H₀
+b. Reject H₀
+
+d <<-- Find the critical value for a two - tailed test H₁ : μ ≠ 10, α = 0.01, n= 30. Assume that the
+data are normally distributed. Let z(0.05) = 1.645; z(0.025) = 1.96; z(0.01) = 2.33; t(0.005;29) = 2.756.
+Select one:
+a. 1.645; -1.645
+b. 1.96; -1.96
+c. 2.33; -2.33
+d. 2.756; -2.756
+e. None of the other choices is correct
+
+c <<-- Assume that the number of asbestos particles in a squared meter of dust on a surface
+follows a Poisson distribution with a mean of 10000. If a squared meter of dust is analyzed,
+approximate the probability that more than 8050 particles are found.Let P( Z<-4) = 0; P(Z
+<5) = 1; P( Z<0) = 0.5; Z is a standard normal random variable.
+Select one:
+a. None of others
+b. 1.02
+c. 1
+d. 0
+e. 0.5
+
+d <<-- Messages arrive at a switchboard in a Poisson manner at an average rate of five per hour.
+Find the probability for each of the following event: "No message arrives within one hour"
+Select one:
+a. 0.4046
+b. 0.4460
+c. None of the other choices is correct
+d. 0.0067
+e. 0.4406
+
+d <<-- A sample preparation for a chemical measurement is completed correctly by 25% of the lab
+technicians, completed with a minor error by 72% and completed with a major error by 3%.
+a)If a technician is selected randomly to complete the preparation, what is the probability it
+is completed without error? b) what is the probability that it is completed with either a minior
+or a major error?
+Select one:
+a. 0.75 and 0.75
+b. 0.25 and 0.25
+c. 0.75 and 0.25
+d. 0.25 and 0.75
+e. None of the other choices is correct
+
+c <<-- The number of pounds of steam used per month by a chemical plant is thought to be related
+to the average ambient temperature (in⁰F) for that month. The past year's usage and
+temperature are shown in the following table:
+-------------------------------------------
+|Mon|Temp.|Usage/1000|Mon|Temp.| Usage/1000
+|Jan. |21. |185.79. |July |68 | 621.55
+|Feb.|24 |214.47 |Aug | 74. | 675.06
+|Mar.|32. | 288.03 |Sep | 62. | 562.03
+|Apr.|47 |424.84 |Oct | 50 |452.93
+|May|50 |454.58 |Nov.| 41. | 369.95
+|June|59 |539.03 |Dec.| 30. | 273.98
+What is the estimate of expected steam usage when the average temperature is 55⁰F ?
+Select one:
+a. 34.29
+b. 39.2
+c. 33.17
+d. None of the others.
+
+a <<-- An Izod impact test was performed on 20 specimens of PVC pipe. The sample mean is 1.25
+and the sample standard deviation is 0.25. Find a 99% lower confidence bound on Izod
+impact strength. Let t(0.01;19) =2.539; t(0.01;20) =2.528; t(0.005;19) =2.861; t(0.005;20) = 2.845.
+Select one:
+a. 1.123
+b. 1.1086
+c. 1.0901
+d. None of the other choices is correct
+e. 1.0910
+
+b <<-- Suppose Y has a hypergeometric distribution with N=20, n=4 and K=4. Find P(Y>2) and the
+mean of Y.
+Select one:
+a. 0.0134 and 0.4
+b. 0.0134 and 0.8
+c. 0.0134 and 0.536
+d. 0.9866 and 0.8
+e. None of others.
+
+a <<-- Let the continuous random variable X denote the current measured in a thin copper wire in
+milliamperes. Assume that the range of X is [0, 30 mA], and assume that the probability
+density function of X is f(x)=0.25x with 0≤ x ≤30. What is the probability that a current
+measurement is less than 14 mA?
+Select one:
+a. 24.5
+b. 88
+c. 112.5
+d. None of others.
+
+d <<-- The nine measurements that follow are furnace temperatures recorded on successive
+batches in a semiconductor manufacturing process (units are F): 910; 918; 922; 938; 915;
+921; 925; 931; 929.
+Find the sample mean, sample variance.
+Select one:
+a. 923.22 and 5.426
+b. None of others
+c. 923.22 and 8.59
+d. 923.22 and 73.94
+
+a <<-- Suppose X has a continuous uniform distribution over the interval [-4,2]. Determine the
+mean, variance, and standard deviation of X.
+Select one:
+a. -1; 3 and 1.732
+b. 3; 4 and 2
+c. 1; 4 and 2
+d. None of others
+
+d <<-- In a study of the effects of acid rain, a random sample of 100 trees from a particular forest is
+examined. Forty percent of the trees show some signs of damage. Which of the following
+statements is correct?
+Select one:
+a. 40% is a parameter
+b. Less than 40% of the trees in the forest show some signs of damage
+c. 40% of all trees in the forest show some signs of damage
+d. 40% is a statistic
+e. More than 40% of the trees in the forest show some signs of damage
+
+b <<-- Suppose data is obtained from 20 pairs of (x,y) and the sample correlation coefficient is 0.9.
+Test the hypothesis that H₀:p=0 versus H₁:p≠ 0 with α=0.05. Let t(0.025;18) =2.101.
+Select one:
+a. Do not reject H₀.
+b. Reject H₀.
+
+c <<-- Give f(x)=0,75 . 0,25^x , x = 0,1,2... is the probability mass function. Which the following
+statement is NOT TRUE?
+Select one:
+a. P(X = 2) = 3/64
+b. All of the others
+c. P(X ≥ 1) = 48/64
+d. P(X ≤ 2) = 63/64
+
+b <<-- Test for significance of regression is the test of....
+Select one:
+a. None of others
+b. H₀: β₁ = 0 versus H₁ : β₁ ≠ 0
+c. H₀ : β₀ = 0 versus H₁ : β₁ ≠ 0
+
+b <<-- Which of the following cannot be a probability?
+Select one:
+a. 86%
+b. 4/3
+c. 1
+d. 0.4
+
+a <<-- If we know that the length of time it takes a college student to find a parking spot in the
+library parking lot follows a normal distribution with a mean of 3.5 minutes and a standard
+deviation of 1 minute, find the probability that a randomly selected college student will find a
+parking spot in the library parking lot in less than 3 minutes. Let P(Z < -0.62) = 0.2674; P(Z
+< -0.5) = 0.3085; P(Z < -0.37) = 0.3551; P(Z< -0.87) = 0.1915.
+Select one:
+a. 0.3085
+b. 0.3551
+c. 0.2674
+d. None of the other choices is correct
+e. 0.1915
+
+a <<-- A manufacturer of electronic calculators takes a random sample of 1200 calculators and
+finds that there are 8 defective units. Construct a 95% confidence interval on the population
+proportion. Let z(0.025) =1.96.
+Select one:
+a. [0.0021, 0.0088]
+b. [0.204, 0.208]
+c. [0.0021, 0.274]
+d. None of others
+
+a <<-- The amount of time that a customer spends waiting at an airport check - in counter is
+random variable with mean 7.3 minutes and standard deviation 1.8 minutes. Suppose that a
+random sample of n = 36 customers is observed. Find the probability that the average time
+waiting in line for these customers is less than 8 minutes. Let P(Z≤ 5)=1; P(Z≤ 2.33)=0.99.
+Select one:
+a. 0.99
+b. 0
+c. None of the others
+d. 1
+
+a <<-- An Izod impact test was perform on 20 specimens of PVC pipe. The sample standard
+deviation was 0.25.
+Test H₀ : σ = 0.1, H₁ : σ ≠ 0.1, using α = 0.01.
+Let X²(0.005;19) = 38.58; X²(0.005;19) = 6.84.
+Select one:
+a. Reject H₀
+b. Do not reject H₀
+
+e <<-- A random sample of size n₁ =28 is selected from a normal population with a mean of 62 and
+a standard deviation of 7 . A second random sample of size n₂ = 67 is taken from another
+normal population with mean 68 and standard deviation 9. Let X₁ and X₂ be two sample
+means. Find the probability that X₂ - X₁ is less than 6. Let P( Z<0 )=0.5; P( Z<5)=1; P(
+Z<2.5)= 0.979818.
+Select one:
+a. 0.474818
+b. None of others
+c. 0
+d. 1
+e. 0.5
+
+d <<-- Let >= be "greater than or equal", <= be "less than or equal".
+The random variable X has a binomial distribution with
+n = 10 and p = 0.5. Which in the following statements is TRUE?
+Select one:
+a. P (X >=9) = 0.0107
+b. P(X = 5) = 0.2461
+c. P (X <=2) = 0.0547
+d. All of the others.
+
+c <<-- Data on oxide thickness of semiconductors are as follows: 425, 431, 416, 419, 421, 436,
+418, 410, 431, 433, 423, 426, 410, 435, 436, 428, 411, 426, 409, 437, 422, 428, 413, 416.
+Which the following statement(s) is (are) TRUE?
+Select one:
+a. The point estimate of the variance of oxide thickness for all wafers in the population
+is 82.4464
+b. The point estimate of the standard deviation of oxide thickness for all wafers in the
+population is 9.08
+c. All of the others.
+d. The point estimate of the mean oxide thickness for all wafers in the population is
+423.33
+
+b <<-- Choose correct statements
+Select one:
+a. The significance level of the test is also called its β-error
+b. The P-value is the smallest level of significance at which the null hypothesis would
+be rejected.
+c. Critical values are contained inside the critical region of the test.
+
+b <<-- An article in Human Factors (June 1989) presented data on visual accommodation (a
+function of eye movement) when recognizing a speckle pattern on a high-resolution CRT
+screen. The data are asfollows: 35.35; 67.79; 38.87; 40.18; 36.72; 53.77; 39.30; and 49.79.
+The sample standard deviation is
+Select one:
+a. None of others
+b. 11.173
+c. 14.359
+d. 43.975
+
+d <<-- Which following statement(s) is (are) true?
+Select one:
+a. Mechanistic model is not directly developed from our theoretical understanding of the
+underlying mechanism.
+b. Mechanistic model is not built from our underlying knowledge of the basic physiscal
+mechanism.
+c. Emprical model directly developed from our theoretical understanding of the
+underlying mechanism.
+d. Probability models help quantify the risk involved in statistical inference.
+
+d <<-- Suppose the random variable X has a geometric
+distribution with a mean of 1.6. Find P(X=5).
+Select one:
+a. 0.0494
+b. None of others
+c. 0.0618
+d. 0.01236
+
+b <<-- A major videocassette rental chain is considering opening a new store in an area that
+currently does not have any such stores. The chain will open if there is evidence that more
+than 25% households in the area are equipped with videocassette recorders (VCRs). It
+conducts a telephone poll of 300 randomly selected households in the area and finds that
+96 have VCRs. The value of the test statistic in this problem is approximately equal to
+Select one:
+a. 2.60
+b. 2.80
+c. None of the other choices is correct
+d. 1.94
+e. 1.30
+
+a <<-- Which correlation coefficient represents the strongest association between the X and Y
+variables?
+Select one:
+a. r = 0.6
+b. r = - 0.3
+c. r = - 0.5
+d. r = 0.2
+
+c <<-- We have created a 95% confidence interval for µ with the result (10, 15). What decision will
+we make if we test H₀ : µ =16 versus H₁ : µ ≠ 16 at α = 0.05?
+Select one:
+a. We cannot tell what our decision will be from the information given.
+b. Accept H₀ in favor of H₁ .
+c. Reject H₀ in favor of H₁ .
+d. Fail to reject H₀ in favor of H₁ .
+
+d <<-- A school survey found that 7 out of 30 students walk to school. If four students
+are selected at random without replacement, what is the probability that all four
+walk to school?
+Select one:
+a. None of others
+b. 7/6750
+c. 343/93690
+d. 1/783
+
+c <<-- Let X be a continuous random with f(x) is probability density function.
+Which the following statement(s) is (are) TRUE?
+Select one:
+a. f(x) = 0.125x , 3 < x < 5 => E(X) = 4.083
+b. f(x) = 0.25, 0 < x < 4 => E(X) = 2
+c. All of the others
+d. f(x) = 0.125x , 0 < x < 4 => E(X) = 2.6667
+
+b <<-- A random sample of 310 circuits generated 15 defectives. Use the data to test H₀ :p=0.05
+versus H₁ :p≠0.05.Let z(0.025) =1.96; use α =0.05.
+Select one:
+a. Reject null hypothesis and conclude the true fraction of defective integrated circuits
+is significantly less than 0.05, at α=0.05.
+b. Do not reject null hypothesis and conclude the true fraction of defective integrated
+circuits is not significantly less than 0.05, at α=0.05.
+
+e <<-- Two events A and B are such that P(A ∩ B) = 0.25 ,P(A U B)=0.65 and P(A|B)=0.5. Find
+P(B|A).
+Select one:
+a. 1.15
+b. 0.35
+c. 0.5
+d. 0.3
+e. None of the other choices is correct
+f. 0
+
+c <<-- Those methods involving the collection, presentation, and characterization of a set of data
+in order to properly describe the various features of that set of data are called ...
+Select one:
+a. the scientific method.
+b. statistical inference.
+c. descriptive statistics.
+d. sampling.
+
+d <<-- An Izod impact test was performed on 20 specimens of PVC pipe. The sample mean is x̅ =
+1.25 and the sample standard deviation is s= 0.25. Find a 99% lower confidence bound on
+Izod impact strength t(0.01;19) = 2.539, t(0.01;20) =2.528, t(0.005;19) =2.861, z(0.01) =2.33, z(0.005) =2.58
+Select one:
+a. 1.1087 ≤ μ
+b. 1.1058 ≤ μ
+c. 1.1197 ≤ μ
+d. 1.1081 ≤ μ
+e. 1.0901 ≤ μ
+
+e <<-- The "cold start ignition time" of an automobile engine is being investigated by a gasoline
+manufacturer. The following times (in seconds) were obtained for a test vehicle: 1.75, 1.92,
+2.62, 2.35, 3.09, 3.15, 2.53, 1.91. The sample mean is _____
+Select one:
+a. 0.543
+b. 2.440
+c. None of the other choices is correct
+d. 2.973
+e. 2.415
+
+e <<-- Suppose that average number of accidents occurring weekly on a particular stretch of a
+hightway equals 4. Calculate the probability that there is at least one accident this week.
+Select one:
+a. 0.5902
+b. None of these
+c. 0.8920
+d. 0.9205
+e. 0.9816
+
+e <<-- According to a college survey, 22% of all students work full time. Find the standard
+deviation for the random variable X, the number of students who work full time in samples of
+size 16.
+Select one:
+a. 1.98
+b. 3.52
+c. None of the other choices is correct
+d. 1.88
+e. 1.66
+
+b <<-- A bearing used in an automotive application is supposed to have a norminal inside diameter
+of 1.5 inches. A random sample of 36 bearing is selected and the average inside diameter
+of these bearing is 1.4895 inches. Bearing diameter is known to be normally distributed with
+standard deviation p=0.02 inch. Test the hypotheses H₀ : µ=1.5 versus H₁ : µ ≠ 1.5 using
+p=0.01
+Let z(0.005) =2.58
+Select one:
+a. Do not reject null hypothesis.
+b. Reject the null hypothesis.
+
+a <<-- The life in hours of a 400 - watt light is known to be normally distributed with standard
+deviation of 25 hours.
+A random sample of 20 lights has a mean life of 1014 hours. Construct a 95% two - sided
+confidence interval on the mean life.
+Let z(0.025) = 1.96
+Select one:
+a. (1003, 1025)
+b. (1003, 1005)
+c. None of others.
+d. (1003, 1050)
+
+b <<-- Compute the standardized test statistic to test the claim σ² = 34.4 if n = 12, s =28.8, and
+α=0.05.
+Select one:
+a. None of the other choices is correct
+b. 265.23
+c. 18.49
+d. 0.49
+e. 12.96
+
+b <<-- What are the median and mode of the following series : 2; 2; 2; 4; 4; 5; 5; 6; 8; 11; 12; 16;
+18?
+Select one:
+a. 5 and 5
+b. 5 and 2
+c. 6 and 5
+d. 5.5 and 2
+e. None of the others
+
+b <<-- The following statements, which are true?
+Select one:
+a. When the number of observations is large, dot diagram is usually difficult to identify
+any specific patterns in the variability.
+b. Dot diagram is a very useful plot for displaying a small body of data.
+c. Dot diagram is not a convenient way to see any unusual data features.
+
+e <<-- The fraction of defective integrated circuits produced in a photolithography process is being
+studied. A random sample of 500 circuits is tested, revealing 20 defectives.
+Calculate a 95% two _ side CI on the fraction of defective circuits produced by this
+particular tool.
+Let z(0.025) =1.96; z(0.05) =1.65.
+Select one:
+a. (0.5005; 0.5015)
+b. (0.0398; 0.577)
+c. (0.5007;0.5075)
+d. None of the others
+e. (0.0228; 0.0517)
+
+c <<-- The diameter of holes for a cable harness is known to have a normal distribution with
+standard deviation 0.01 inch. A random sample of size 16 yield an average diameter of
+1.5045 inch. Find a 99% two - side confidence interval on the mean hole diameter. Let
+z(0.005) =2.58; z(0.01) =2.33.
+Select one:
+a. None of the other choices is correct
+b. (1.4963; 1.5119)
+c. (1.49805; 1.51095)
+d. (1.4971; 1.5119)
+e. (1.4971; 1.5127)
+
+b <<-- The sample space of a random experiment is {a,b,c,d,e} with probabilities 0.1; 0.2; 0.1; 04
+and 0.2, respectively. Let A denote the event {a,b,c}, and let B denote the event {c,d,e}.
+Determine: P(A∩B).
+Select one:
+a. None of the other choices is correct
+b. 0.1
+c. 0.2
+d. 0.4
+e. 1
+
+a <<-- A synthetic fiber used in manufacturing carpet has tensile strength that is normal distributed
+with mean 65.5 psi and standard deviation 10. What is the probability that a random sample
+of n=64 fiber specimens will have sample mean tensile strength that exceeds 65.75 psi? Let
+P(Z≤ 0.5)=0.6915; P(Z≤ 0.2)=0.5792.
+Select one:
+a. 0.4208
+b. 0.5792
+c. 0.6915
+d. None of these
+e. 0.5695
+
+c <<-- If X is a continuous random variable, then
+Select one:
+a. None of others.
+b. P(x < X <x ) = P(x ≤ X<x ) > P(x < X ≤ x ) = P(x ≤ X ≤ x )
+c. P(x < X <x ) = P(x ≤ X<x ) = P(x < X ≤ x ) = P(x ≤ X ≤ x )
+d. P(x < X <x ) = P(x ≤ X<x ) = P(x < X ≤ x ) < P(x ≤ X ≤ x )
+
+b <<-- If we know that the length of time it takes a college student to find a parking spot in the
+library parking lot follows a normal distribution with a mean of 3.5 minutes and a standard
+deviation of 1 minute, find the probability that a randomly selected college student will find a
+parking spot in the library parking lot in less than 3 minutes. Let P(Z < -0.62) = 0.2674; P(Z
+< -0.5) = 0.3085; P(Z < -0.37) = 0.3551; P(Z< -0.87) = 0.1915.
+Select one:
+a. 0.3551
+b. 0.3085
+c. None of the other choices is correct
+d. 0.1915
+e. 0.2674
+
+e <<-- The probability density function of X, the time it takes a hematology cell counter to complete
+a test on a blood sample is f(x)=0.05 for 60 < x < 80 . Find E(X) and V(X).
+Select one:
+a. None of the other choices is correct
+b. 5.77 and 75
+c. 5.77 and 70
+d. 70 and 5.77
+e. 70 and 33.33
+
+b <<-- Transactions to a computer database are either new items or changes to previous items.
+The addition of an item can be completed in less than 100 milliseconds 80% of the time, but
+only 30% of changes to the previous item can be completed in less than this time. If 30% of
+transactions are changes, what is the probability that a transaction can be completed in less
+than 100 milliseconds?
+Select one:
+a. 0.09
+b. 0.65
+c. NOne of these
+d. 0.35
+e. 0.56
+
+e <<-- The mean water temperature downstream from a power plant cooling tower discharge pipe
+should be no more than 100°F. Past experience has indicated that the standard deviation of
+temperature is 2°F. The water temperature is measured on nine randomly chosen days, and
+the average
+temperature is found to be 98°F. Let P(Z<-3)=0.00135.
+The P -value for this test is ___
+Select one:
+a. 0.091028
+b. None of the other choices is correct
+c. 0.00135
+d. 0.045514
+e. 0.99865
+
+d <<-- Eight measurements were made on the inside diameter of forged piston rings used in an
+automobile engine. The data (in millimeters) are 74.10; 74.30; 74.15; 74.00; 74.25; 74.20;
+74.05; and 74.14. Calculate the sample mean.
+Select one:
+a. 74.00875
+b. None of these
+c. 74.00578
+d. 74.14875
+e. 74.00815
+
+b <<-- An article describles the effect of delamination on the natural frequency of beams made
+from composite laminates. Five such delaminated beams were subjected to loads, and the
+resulting frequencies were as follows (in hertz): 230.66; 233.05; 232.58; 229.48; 232.58.
+Calculate a 90% two - sided confidence interval on mean natural frequency. Let
+t(0.05;4) =2.132; t(0.05;5) =2.015; t(0.1;4) =1.533; t(0.1;5) =1.476.
+Select one:
+a. (230.64; 230.65)
+b. None of the other choices is correct
+c. (231.63; 232.7)
+d. (230.62; 230.72)
+e. (230.29; 235.05)
+
+d <<-- A lot contains 15 castings from a local supplier and 35 castings from a supplier in the next
+state. Two castings are selected randomly, without replacement, from the lot of 50. Let A be
+the event that the first casting selected is from the local supplier and let B denote the event
+that the second casting is selected from the local supplier. Determine: P(A) and P(A ∩ B).
+Select one:
+a. 0.03 and 0.09
+b. None of the other choices is correct
+c. 0.3 and 0.09
+d. 0.375 and 0.1346
+e. 0.09 and 0.3
+
+a <<-- Retrospective Study, observational study and designed experiment are three basis methods
+of
+Select one:
+a. collecting data
+b. analyzing data
+c. using data to make decisions, solve problems.
+d. showing data
+e. None of these
+
+a <<-- A normal population has mean 96 and variance 14. How large must be the random sample
+be if we want the standard error of the sample mean to be 1.5?
+Select one:
+a. 7
+b. 9
+c. 8
+d. 6
+e. None of others
+
+b <<-- The nine measurements that follow are furnace temperatures recorded on successive
+batches in a semiconductor manufacturing process (units are ⁰F): 920, 918, 922, 930, 915,
+921,925, 931, 927.
+Find the sample mean, sample variance.
+Select one:
+a. None of the others.
+b. 923.22 and 29.44
+c. 923.22 and 5.426
+d. 922.22 and 54.26
+
+d <<-- The compressive strength of concrete is normally distributed with µ=1200 psi and a . A
+random sample of n=9 specimens will have a sample mean diameter that falls in the interval
+from 1011 psi to 1230 psi. what is the standard error of the sample mean?
+Select one:
+a. 30/9
+b. 400/3
+c. 40
+d. 10
+e. None of the others
+
+d <<-- Suppose X has a hypergeometric distribution with N=20, n=4, and K=4. Find P(X=3) and
+P(X ≤ 3).
+Select one:
+a. 0.9866 and 0.0134
+b. None of the other choices is correct
+c. 0.00021 and 0.99979
+d. 0.0132 and 0.99998
+e. 0.9866 and 0.00012
+
+b <<-- Let != be "not equal to".
+The heat evolved in calories per gram of a cement mixture is approximately normally
+distributed. The mean is thought to be 100 and the standard deviation is 2.
+We wish test H₀ : µ=100 versus H₀ : µ!=100 with a sample of n=16.
+If the acceptance region is define as 98.5 <= p<= 101.5, find the type I error probability
+p .
+Let P(Z <= -3)=0.00135; P(Z <= 3)=0.99865.
+Select one:
+a. 2.7
+b. 0.0027
+c. 1.27
+d. None of the others.
+
+d <<-- Let X be a continuous uniform distribution over the interval [2.4; 5.2]. Find the mean and
+standard deviation of X.
+Select one:
+a. None of the others.
+b. 0.38 and 0.653
+c. 3.8 and 0.653
+d. 3.8 and 0.808
+
+c <<-- What is a method of collecting data?
+Select one:
+a. A case study.
+b. A undesigned experiment.
+c. A retrospective study using historical data.
+d. All of the others.
+
+a <<-- Suppose data is obtained from 20 pairs of (x,y) and the sample correlation coefficient is 0.9.
+Test the hypothesis that H₀ :p=0 versus H₁ :p≠ 0 with α=0.05. Let t(0.025;18) =2.101.
+Select one:
+a. Reject H₀ .
+b. Do not reject H₀ .
+
+e <<-- A normal population has mean 76 and variance 9. How large must be the random sample
+be if we want the standard error of the sample mean to be 1.1?
+Select one:
+a. 6
+b. 7
+c. 9
+d. None of the others
+e. 8
+
+a <<-- A random sample of n=25 observations was made on the time to failure of an electronic
+component and the temperature in the application environment in which the component was
+used. Given that r=0.72, test the hypothesis that ρ=0, using α =0.05.Let t(0.025;23) =2.069.
+Select one:
+a. Reject H₀ .
+b. Do not reject H₀ .
+
+b <<-- An economist is interested in studying the incomes of consumers in a particular region. The
+population standard deviation is known to be USD1000. A random sample of 50 individuals
+resulted in an average income of USD15000. What total sample size would the economist
+need to use for a 95% confidence interval if the width of the interval should not be more
+than USD100?
+Let z = 1.96.
+Select one:
+a. n=40
+b. n = 385
+c. n=20
+d. n = 1537
+
+b <<-- Some fields in statistics:
+Select one:
+a. quantifying the risks involed in decisions made every day.
+b. the collection, presentation, analysis and use of data to make decisions, solve
+problems.
+
+a <<-- An engineer who is studying the tensile strength of a steel alloy intended for use in golf club
+shafts knows that tensile strength is approximately normally distributed with standard
+deviation 50 psi. A random sample of 16 specimens has a mean tensile strength of 3450
+psi. Test the hypothesis that mean strength is 3500 psi. Use α=0.01. Let z(0.05) =2.58;
+z(0.2) =1.29.
+Select one:
+a. Reject the null hypothesis and conclude the true mean tensile stength is significantly
+different from 3500 at α=0.01.
+b. Do not reject the null hypothesis and conclude the true mean tensile stength is
+significantly different from 3500 at α = 0.01.
+
+c <<-- A box contains eight red balls, four green balls and ten yellow balls. A ball is selected at
+random from the box that is not a red ball. What is the probability that it is a green ball?
+Select one:
+a. 2/3
+b. 3/5
+c. 2/7
+d. None of the other choices is correct
+e. 1
+
+d <<-- In its standardized form, the normal distribution
+Select one:
+a. cannot be used to approximate discrete probability distributions.
+b. has a mean of 1 and a variance of 0.
+c. has an area equal to 0.5.
+d. be used to approximate discrete probability distributions
+
+b <<-- Suppose that P(A|B)=0.2 and P(B)=0.6. Find P(A∩B).
+Select one:
+a. 0.08
+b. 0.12
+c. 0.48
+d. 0.8
+e. None of these others.
+
+a <<-- Two different tests are designed to measure employee productivity and dexterity. Several
+employees are randomly selected and tested with these results.
+|Productivity,x| 3| 5| 8| 2| 1|
+|Dexterity,y. | 9| 3| 9| 4| 7|
+Find the equation of the regression line.
+Select one:
+a. ŷ = 5.49+0.24x
+b. None of the other choices is correct
+c. ŷ = 75.3-0.329x
+d. ŷ = 10.7+1.53x
+e. ŷ = 2.36+2.039x
+
+a <<-- Assume that a 95% confident interval for mean of population is (12, 18).
+What is decision will we make if we test H₀ : µ=11 versus H₁ : µ ≠ 11 at α = 0.05 ?
+Select one:
+a. Reject H
+b. Do not reject H
+c. None of others
+
+d <<-- Let X be a binomial random variable with p=0.1 and n=10. Calculate the following
+probability:
+P(X>2) and P(X` <= `8).
+Select one:
+a. 0.0702 and 0
+b. 0.702 and 1
+c. 0.702 and 0.999
+d. None of others.
+e. 0.9892 and 1
+
+d <<-- Five following data pairs show that price sale depends on taxes : (3,12); (5,15); (2,7); (7;18);
+(9,20). Where the first value is tax.
+Find the equation of the regression line.
+Select one:
+a. ŷ=5.427-1.7256x
+b. ŷ=-5.427+1.7256x
+c. ŷ=5.427
+d. ŷ=5.427+1.7256x
+e. None of the others
+
+a <<-- A random sample of 30 observations was made on the diameter of spot welds and the
+corresponding weld shear strength. Given that r=0.62, test the hypothesis that ρ=0, using α
+=0.01.Let t(0.005;28) =2.763.
+Select one:
+a. Reject H₀
+b. Do not reject H₀
+
+d <<-- When an ordered set of data is divided into four equal parts, the division point is called:
+Select one:
+a. mean
+b. percentile
+c. median
+d. quartile
+
+d <<-- Which following statement(s) is (are) true?
+Select one:
+a. Observational Study is a basic method of presentation data
+b. Observational Study is a basic method of analysis data
+c. None of these
+d. Observational Study is a basic method of collecting data
+
+d <<-- The amount of time that a customer spends waiting at an airport check - in counter is
+random variable with mean 7.3 minutes and standard deviation 1.8 minutes. Suppose that a
+random sample of n = 36 customers is observed. Find the probability that the average time
+waiting in line for these customers is less than 8 minutes. Let P(Z≤ 5)=1; P(Z≤ 2.33)=0.99.
+Select one:
+a. 1
+b. 0
+c. None of the others
+d. 0.99
+
+a <<-- The fraction of defective integrated circuits produced in a photolithography process is being
+studied. A random sample of 500 circuits is tested, revealing 20 defectives.
+Calculate a 95% upper confidence bound on the fraction of defective circuits.
+Let z(0.025) =1.96; z(0.05) =1.65.
+Select one:
+a. (0; 0.0545)
+b. None of others
+c. (0; 0.4545)
+d. (0; 0.5445)
+
+e <<-- Messages arrive at a switchboard in a Poisson manner at an average rate of five per hour.
+Find the probability for each of the following event: "No message arrives within one hour"
+Select one:
+a. 0.4406
+b. None of the other choices is correct
+c. 0.4460
+d. 0.4046
+e. 0.0067
+
+c <<-- Let the continuous random variable X denote the current measured in a thin copper wire in
+milliamperes. Assume that the range of X is [0, 30 mA], and assume that the probability
+density function of X is f(x)=0.25x with 0≤ x ≤30. What is the probability that a current
+measurement is less than 14 mA?
+Select one:
+a. 112.5
+b. None of others.
+c. 24.5
+d. 88
+
+b <<-- The following statements, which are true?
+Select one:
+a. When the number of observations is large, dot diagram is usually difficult to identify
+any specific patterns in the variability.
+b. Dot diagram is a very useful plot for displaying a small body of data.
+c. Dot diagram is not a convenient way to see any unusual data features.
+
+b <<-- Which following statement(s) is (are) true?
+Select one:
+a. None of these
+b. Observational Study is a basic method of collecting data
+c. Observational Study is a basic method of analysis data
+d. Observational Study is a basic method of presentation data
+
+a <<-- Choose one true statement
+Select one:
+a. random sample is selected in such a way so that every possible sample has the
+same probability of being selected.
+b. random variable is a value that is less than 1.
+
+b <<-- Suppose you and a friend each choose at random an integer between 1 and 8, where your
+number is written first and your friend's number second. Which the following statement is
+TRUE ?
+Select one:
+a. P (you pick 5 and your friend picks 8) = 1/64
+b. All of the others.
+c. P (sum of the two numbers picked is < 4) = 3/64
+d. P (both numbers match) = 8/64
+
+d <<-- For each of the following pairs of events, which are subsets of the set of all possible
+outcomes when a coin is tossed three times, choose the pair(s) is (are) independent.
+Select one:
+a. E1: the second toss comes up tail; E2: second, and not third toss, come up head in a
+row.
+b. E1: the first toss comes up tail; E2: first, second and third toss, come up head in a
+row.
+c. All of the others.
+d. E1: the first toss comes up tail; E2: the second coin comes up head.
+
+c <<-- Suppose the probability that item produced by a certain machine will be defective is 0.2.
+Find the probability that 10 items will contain at most one defective item. Assume that the
+quality of successive items is independent.
+Select one:
+a. 0.63
+b. None of these
+c. 0.37
+d. 0.73
+e. 0.27
+
+d <<-- Let <= be "less than or equal". Let the random variable X have a discrete uniform
+distribution on the intergers 1<=x<=35. Determine the mean and variance of X.
+Select one:
+a. 17 and 102
+b. 17.5 and 102
+c. None of the others
+d. 18 and 102
+
+c <<-- A naturalist leads whale watch trips every morning in March. The number of whales seen
+has a Poisson distribution with a mean of 4.3. Find the probability that on a randomly
+selected trip, the number of whales seen is 3.
+Select one:
+a. None of the other choices is correct
+b. 0.3596
+c. 0.1798
+d. 0.5394
+e. 0.3057
+
+c <<-- In a recent survey, 80% of the community favored building a police substation in their
+neighborhood. If 15 citizens are chosen, what is the standard deviation of the number
+favoring the substation?
+Select one:
+a. 2.40
+b. 0.55
+c. 1.55
+d. 0.98
+e. None of the other choices is correct
+
+c <<-- The probability density function of the weight of packages delivered by a post office is
+f(x)=50/(79x ) for 1<x<50 pounds.
+Determine the mean and variance of weight.
+Select one:
+a. 0.0147 and 70.3
+b. 4.3101 and 69
+c. 2.4759 and 25,5155
+d. None of these
+e. 0.0147 and 69
+
+d <<-- The cumulative distribution function of a continuous random variable X is F(x) = a . Find
+P(X<0.5).
+Select one:
+a. None of the others.
+b. 0.15
+c. 1
+d. 0
+
+e <<-- Assume X is normally distributed with a mean of 10 and a standard deviation of 2. Which
+the following statement(s) is (are) FALSE?
+Let P(Z < 1.5)=0.93319; P(Z < 2)=0.97725; P(Z < -2)=0.02275;
+P(Z < -3)=0.00135; P(Z < -4)=0; P(Z < -1)=0.158655.
+Select one:
+a. None of the others
+b. P(-2 < X < 8) = 0.94034
+c. P(X < 13) = 0.93319
+d. P(6 < X < 14) = 0.9545
+e. P(2 < X < 4) = 0.99878
+
+c <<-- Let X be the continuous random variable with cumulative distribution function F(x) = 1 - e^(-0.2x)
+ , x>0; find the probability density function of X.
+Select one:
+a. f( x ) = -0.2e^(-0.2x) , x>0
+b. f( x ) = 1 - 0.2e^(-0.2x) , x>0
+c. f( x) = 0.2e^(-0.2x) , x>0
+d. None of others
+
+a <<-- The most frequently occurring data value is
+Select one:
+a. sample mode
+b. quartile
+c. sample median
+d. percentile
+
+b <<-- The following data are the viscisity measurements for a chemical product observed hourly
+(read from left to right). 47; 48; 48; 50; 51; 52; 53; 54; 55; 56; 57; 58; 59; 60; 61; 62.
+Calculate the sample mean and sample variance.
+Select one:
+a. 55.5 and 4.67
+b. 54.5 and 4.76
+c. 45.5 and 4.76
+d. 44.5 and 22.64
+
+a <<-- The nine measurements that follow are furnace temperatures recorded on successive
+batches in a semiconductor manufacturing process (units are F): 920, 918, 922, 930, 915,
+921,925, 931, 927. Find the sample range and standard deviation.
+Select one:
+a. 16 and 5.426
+b. 17 and 5.426
+c. 15 and 5.426
+d. None of the others.
+
+c <<-- The interquartile range (IQR) is ____
+Select one:
+a. Q₃ + Q₂
+b. Q₂ - Q₁
+c. Q₃ - Q₁
+d. Q₃ + Q₁
+e. Q₃ - Q₂
+
+a <<-- The "cold start ignition time" of an automobile engine is being investigated by a gasoline
+manufacturer. The following times (in seconds) were obtained for a test vehicle: 1.75, 1.92,
+2.62, 2.35, 3.09, 3.15, 2.53, 1.91. The sample mean is _____
+Select one:
+a. 2.415
+b. 2.973
+c. 2.440
+d. 0.543
+e. None of the other choices is correct
+
+a <<-- The variance of the scores 0, 1, 1, and 2 is
+Select one:
+a. 0.67
+b. 1.7
+c. 1
+d. 0.25
+
+c <<-- Suppose that a random variable X has a continuous uniform distribution with f(x)=0.5 ,
+where x is in [4,6].
+Find the mean and variance of the sample mean of a random sample of size n = 40.
+Select one:
+a. 3 and 1/3
+b. 3 and 40
+c. 5 and 1/120
+d. None of others
+e. 5 and 1/3
+
+b <<-- A normal population has mean 110 and variance 49. How large must the random sample be
+if we want the standard error of the sample average to be 1.7?
+Select one:
+a. None of others.
+b. 17
+c. 16
+d. 16.11
+e. 15
+
+d <<-- The compressive strength of concrete is normally distributed with µ=1200 psi and σ =30. A
+random sample of n=25 specimens will have a sample mean diameter that falls in the
+interval from 1011 psi to 1230 psi. What is the standard error of the sample mean?
+Select one:
+a. None of the others.
+b. 30
+c. 30/25
+d. 6
+e. 400
+
+c <<-- The life in hours of a 75 - watt light bulb is known to be normally distributed with standard
+deviation 25 hours. A random sample of 20 bulbs has a mean life of 1014 hours. Construct
+a 97% lower - confidence bound on the mean life. Let z(0.03) =1.89; z(0.05) =1.65; z(0.005) =2.58.
+Select one:
+a. 1005
+b. 1023
+c. 1003.4
+d. None of the other choices is correct
+e. 1025
+
+d <<-- A university dean is interested in determining the proportion of students who receive some
+sort of financial aid. Rather than examine the records for all students, the dean randomly
+selects 200 students and finds that 118 of them are receiving financial aid. Use a 90%
+confidence interval to estimate the true proportion of students who receive financial aid. Let
+z(0.1) = 1.28 ; z(0.05) = 1.65.
+Select one:
+a. None of the other choices is correct
+b. (0.433; 0.567)
+c. (0.563; 0.723)
+d. (0.533; 0.647)
+e. (0.143; 0.641)
+
+b <<-- The mean replacement time for a random sample of 12 microwave ovens is 8.6 years with a
+standard deviation of 2.3 years. Construct the 98% confidence interval for the population
+variance. Assume the data are normally distributed. Let X²(0.01;11) = 24.72; X²(0.99;11) = 3.05.
+Select one:
+a. (1.5, 4.4)
+b. (2.4, 19.1)
+c. None of the other choices is correct
+d. (2.2, 16.3)
+e. (1.0, 8.3)
+
+c <<-- A hypothesis will be used to test that a population mean equals 5 against the alternative
+that a population mean is less than 5 with known variance. What is the critical value for the
+test statistic t₀ for the following significance level: α=0.05 and n=15.Let t(0.05;14) =1.761;
+t(0.05;15) =1.753
+Select one:
+a. 1.761
+b. 1.753
+c. -1.761
+d. -2.539
+e. None of these
+
+c <<-- Assume that a 95% confident interval for mean of population is (12, 18).
+What is decision will we make if we test H₀ : µ=11 versus H₁ : µ ≠ 11 at α = 0.05 ?
+Select one:
+a. Do not reject H₀
+b. None of others.
+c. Reject H₀
+
+c <<-- A melting point test of n = 10 samples of a binder used in manufacturing a rocket propellant
+resulted in sample mean of 154.2⁰F. Assume that melting point is normally distributed with
+σ=1.5⁰F. What is the P-value for the testing problem H₀ : µ=155 ; H₁ : µ ≠ 155, using α =
+0.01 ? Let P(Z<-1.69)=0.0455.
+Select one:
+a. None of the other choices is correct
+b. 0.233
+c. 0.091
+d. 0.058
+e. 0.321
+
+b <<-- The number of pounds of steam used per month by a chemical plant is thought to be related
+to the average ambient temperature (in⁰F) for that month. The past year's usage and
+temperature are shown in the following table:
+-------------------------------------------
+|Mon|Temp.|Usage/1000|Mon|Temp.| Usage/1000
+|Jan. |21. |185.79. |July |68 | 621.55
+|Feb.|24 |214.47 |Aug | 74. | 675.06
+|Mar.|32. | 288.03 |Sep | 62. | 562.03
+|Apr.|47 |424.84 |Oct | 50 |452.93
+|May|50 |454.58 |Nov.| 41. | 369.95
+|June|59 |539.03 |Dec.| 30. | 273.98
+Let y = steam usage and x = average temperature.
+Test the hypothesis H₀ : ß₁ = 10 versus H₁ : ß₁ ≠ 10 using
+p= 0.01. Let t_(0.005;10) =3.17
+Select one:
+a. Do not reject H0
+b. Reject H0
+
+b <<-- The paired data below consist of the test scores of 6 randomly selected students and the
+number of hours they studied for the test.
+Hours 5 10 4 6 10 9
+Score 4 8 3 6 9 8
+Find the value of the linear correlation coefficient r.
+Select one:
+a. -0.224
+b. 0.973
+c. -0.678
+d. 0.678
+
+a <<-- A recent survey of banks revealed the following distribution for the interest rate being
+charged on a home loan (based on a 30-year mortgage with a 10% down payment).
+Interest rate 7.0% 7.5% 8.0% 8.5% 9.0%
+Probability 0.12 0.23 0.24 0.35 0.06
+If a bank is selected at random from this distribution, what is the chance that the interest
+rate charged on a home loan will exceed 8.0%?
+Select one:
+a. 0.41
+b. 1.00
+c. 0.06
+d. 0.59
