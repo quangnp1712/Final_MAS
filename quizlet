@@ -1,0 +1,375 @@
+Medicare would like to test the hypothesis that the average monthly rate for one-bedroom assisted-living facility is equal to $3,300. A random sample of 12 assisted-living facilities had an average rate of $3.690 per month and a standard of $530. It is believed that the monthly rate for one-bedroom assisted-living facility is normally distributed. Use the significance level of 0.05 for this hypothesis test, what is the value of the test statistic? | 2.55
+An economist is interested in studying the incomes of consumers in a particular region. The population standard deviation is known to be $1000. A random sample of 50 individuals resulted in an average income of $15000. What total sample size would the economist need to use for a 95% confidence interval if the width of the interval should not be more than $100?
+Let Z0.025 = 1.96 | 1537
+(Choose 1 answer) The following confidence interval is obtained for a population proportion, p: 0.817 < p < 0.855. Use these confidence interval limits to find the point estimate of p. | 0.836
+In an application to estimate the mean number of miles that downtown employees commute to work roundtrip each day, the following information is given:
+n=20, x = 4.33, S = 3.50
+Based on this information, what is the upper limit for a 95 percent two-sided confidence interval estimate for the true population mean?
+ Let 20.025 = 1.96, 20.08 = 1.65, 10.025,19 = 2.09 and to.08,19 = 1.73. | about 5.97 miles
+A manufacturer of a certain brand of rice cereal claims that the average saturated fat content does not exceed 1.6 grams. State the null and alternative hypotheses to be used in testing this claim.
+(i) H: m = 1.6, H khac 1.6
+(ii) H: m = 1.6, H: m< 1.6
+(iii) He: m = 1.6, H1: m > 1.6
+(iv) H.: m >1.6, H1: m = 1.6 | (iii)
+(Choose 1 answer) An article reported on the topics that teenagers most want to discuss with their parents. The findings, the results of a poll, showed that 33% would like more discussion about the family's financial situation, 37% would like to talk about school, and 30% would like to talk about religion. These and other percentages were based on a national sampling of 549 teenagers. Estimate the proportion of all teenagers who want more family discussions about school. Use a 99% confidence level.
+Let Z0.005 = 2.58 and Z0.01 = 2.3s3 | (0.317,0.423)
+An entrepreneur is considering the purchase of a coin-operated laundry. The current owner claims that over the past 5 years, the average daily revenue was $675 with a standard deviation of $75. A sample of 46 days reveals a daily average revenue of $625. If you were to test the null hypothesis that the daily average revenue was $675, which test would you use?
+A t-test (using Student distribution) of population mean 
+B. t-test (using Student distribution) of a population proportion 
+C. Ztest (using normal distribution) of a population mean 
+D. Z-est (using normal distribution) of a population proportion | C
+(Choose 1 answer) It is desired to estimate the average total compensation of CEOs in the Service industry. Data were randomly collected from 35 CEOs and the 94% confidence interval was calculated to be (3451260. 7536180). Which of the following interpretations is correct?
+A. In the population of Service industry CEOs. 94% of them will have total compensations that fall in the interval 3451260 to 7536180
+B. 94% of the sampled total compensation values fell between 3451260 and 7536180
+C. We are 94% confident that the average total compensation of all CEOs in the Service industry falls in the interval 3451260 to 7536180
+D. We are 94% confident that the mean of the sampled CEOs falls in the interval 3451260 to 7536180 | C
+Compute the test statistic to test the claim
+stand2 khac 40.8
+if n = 10, S binh = 45, and alpha = 0.05. | 9.926
+A study of the effect on mileage obtained with different sizes of metering jets in a particular model of a compact auto produced the following data.
+Size of jet x 3 4 5
+Miles per gallon y 28 30 23
+Find the equation of the regression line.
+(i) y=37-2.5x
+(ii) y=34-3.2x
+(iii) y=50-3.5x
+(iv) y=35-3.5x | (i)
+A student randomly selects 10 CDs at a store. The mean is 8.75 with a standard deviation of 1.50. Construct a 95% confidence interval for the population standard deviation. Assume the data are normally distributed
+X2 0.025,9 = 19.02, X2 0.025,9 = 2.70 | (1.03, 2.74)
+Anna collected the scores of a random sample 50 students on the first exam in a certain class and their corresponding scores on the second exam in that class. Here is computer output on the sample data:
+
+ Coofficients Standard Error
+Intercept 7.895 3.66
+X-Variable 1 0.975 0.21
+Assume that all conditions for inference have been met. Find the test statistic for testing the null hypothesis that the population slope is 0.5 | x
+An airline claims that only 6% of all lost luggage is never found. If, in a random sample, 17 of 200 pieces of lost luggage are not found, test the null hypothesis p = 0.06 against the alternative hypothesis p > 0.06 at alpha = 0.05.
+Let Z0.05 = 1.65
+(i) zo = 1.489, fail to reject Ho
+(ii) zo = 1.489, reject Ho
+(iii) zo = 1.836, fail to reject Ho
+(iv) zo = 1.836, reject Ho | (i)
+8.The height y and base diameter x of four trees of a certair variety produced the following data:
+x 2 2 3 3 
+y 31 36 94 127
+Compute the correlation coefficient.
+A. 0.948
+B. 0.245
+C. 0.764
+D. 0.899
+E. None | A
+9.Find the value of the test statistic X^2,0 based on the given information H0:
+ϭ^2 = 0.01, n = 20, s^2 = 0.0153
+A. None of the other choices is correct 
+B. 30.98
+C. 30.27
+D. 29.07 
+E. 28.01 | D
+3.A mail-order firm is interested in estimating the number of order that need to be processed on a given day from the weight of the mail received. A close monitoring of the mail on 4 randomly selected business days produced the results below.
+Find the equation of the least squares regression line
+y^= a + bx relating the number of orders to the weight of the mail.
+Mail: x(pounds) 10 12 13 17
+Orders: y 8 10 3 10
+A. 5.5x +0.23
+B. -5x - 0.23
+C. None
+D. 5.5 + 0.23x
+E. -5 + 0.23x | D
+12.Medicare would like to test the hypothesis that the average monthly rate for one-bedroom assisted living facility is equal to $3,300. A random sample of 12 assisted living facilities had an average rate of $3,690 per month and a standard of $530. It is believed that the monthly rate for one-bedroom assisted living facility is normally distributed. Use the significance level of 0.05 for this hypothesis test, what is the critical value?
+A. 1.645; -1.645 
+B. None of the other choices is true 
+C. 2. 201; -2201 
+D. 1.985; -1.985 
+E. 2.761; -2.761 | C
+13.A random sample of 16 fluorescent light bulbs has a mean life of 645 hours with a standard deviation of 31 hours. Construct a 95% confidence interval for the population mean. Assume the population has a normal distribution. 
+A. (531.2, 612.9) 
+B. (321.7, 365.8) 
+C. None of the other choices is correct 
+D. (628.5,661.5) 
+E. (876.2, 981.5) | D
+10.From a prior study, the population proportion p is estimated by 0.6. What sample size is needed to be 99% confident that the point estimate of p will be within 0.2 around the population p?
+A. None of the other choices is correct 
+B. 40
+C. 33
+D. 32
+E. 39 | B
+11.Find the value the test statistic to test the claim that less than 50% of the people following a particular diet will experience increased energy. Of 100 randomly selected subjects who followed the diet, 47 noticed an increase in their energy level.
+A. 1.65
+B. None of the other choices is correct 
+C. -0.60
+D. 1.21
+E. -3.47 | C
+14.The grade point averages for 10 randomly selected students in a statistics class with 125 students are listed below. 
+2.0 3.2 1.8 2.9 0.9 4.0 3.3 2.9
+What is the effect on the width of the confidence interval if the sample size is increased to 20?
+A. It is impossible to tell without more information.
+B. The width increases.
+C. The width decreases.
+D. The width remains the same. | A
+15.Lance Walker owns a construction company and has designed a gazebo. He has estimated the time needed for two employees to build the gazebo to be 14 hours. Lance would like to know if the mean time is less than 14 hours. Fifty gazebos were built, and the sample mean was 12.5 hours. Set up the null and alternative hypotheses for the test.
+(i) Ho µ = 14, H1: µ< 14
+(ii) Ho: µ= 14, H1: µ khac 14
+(iii) Ho: µ = 12.5, H1: µ< 12.5
+(iv) Ho: 11 = 12.5, H1: µ khac 12.5 | C
+1.When calculating a confidence interval for the standard deviation, which distribution is used? 
+A. Student's t-distribution
+B. Binomial distribution
+C. Normal distribution
+D. Chi-squares distribution | A
+2.A random sample of 20 observations was made on the diameter of spot welds and the corresponding weld shear strength. Given that r=0.75, what is the critical value if we want to test the hypothesis that
+Ho p=0 versus H1: p khac 0, use alpha = 0.02.
+A. 2.539
+B. 2.214
+C. 2.552
+D. 2.205
+E. None of the other choices is correct | c
+4.A researcher at a major hospital wishes to estimate the proportion of the adult population of the United States that has high blood pressure. How large a sample is needed in order to be 99% confident that the sample proportion will not differ from the true proportion by more than 4%?
+A None of the other choices is correct 
+B. 2073 
+C. 17 
+D. 1037 
+E. 849 | D
+5.It is believed that, the average numbers of hours spent studying per day (HOURS) during undergraduate education should have a positive linear relationship with the starting salary (SALARY, measured in thousands of dollars per month) after graduation. Given below is the Excel output from regressing starting salary on number of hours spent studying per day for a sample of 51 students.
+NOTE: Some of the numbers in the output are purposely erased.
+The error sum of squares (SSE) of the above regression is
+A. None of the other choices is correct 
+B. 427.0798
+C. 1.8782 
+D. 335.0472 
+E. 92.0326 | E
+6:Suppose you want to test the claim that µ # 3.5. Given a sample size of n = 41 and a level of significance of alpha = 0.10, when should you reject Ho?
+A. Reject Ho if the standardized test statistic is greater than 2.575 or less than -2.575.
+B. None of the other choices is correct 
+C. Reject Ho if the standardized test statistic is greater than 1.96 or less than -1.96 
+D. Reject Ho if the standardized test statistic is greater than 2.33 or less than -2.33 
+E. Reject Ho if the standardized test statistic is greater than 1.645 or less than-1.645. | E
+7: Suppose that n = 100 random samples of water from a fresh water lake were taken and the calcium concentration (milligrams per liter) measured. The 95% confidence interval on the mean calcium concentration is (0.49, 0.82). Which of the following statement is true?
+
+(i) The 99% confidence interval from the same sample data is longer. (ii) The sample mean is 0.655
+(iii) There is a 95% chance that the true mean calcium concentration is between 0.49 and 0.82
+
+A. (i) and (iii)
+B. None of the other choices is correct 
+c.(i) and (ii) 
+D. (i) 
+E. (ii) | C
+10.Of 1000 randomly selected cases of lung cancer. 800 resulted in death within 12 years. Using the point estimate of p obtained from this sample, what sample size is needed to be 95% confident that the error in estimating the true value of p is less than 0.03?
+A. 684
+B. None of the other choices is correct 
+C. 683 
+D. 484 
+E 485 | C
+13.The data below are the final exam scores of 3 randomly selected statistics students and the number of hours they studied for the exam. Calculate the correlation coefficient
+Hours, X: 8 10 6 
+Scores.y: 72 87 66 
+A. 0.761
+B. 0.654 
+C. None of the other choices is correct 
+D. 0.971 
+E 0.991 | x
+3.A manufacturer of golf equipment wishes to estimate the number of left-handed golfers. How large a sample is needed in order to be 95% confident that the sample proportion will not differ from the true proportion by more than 4%? A previous study indicates that the proportion of left-handed golfers is 10%.
+A. 241
+B. 217
+C. None of the other choices is correct 
+D. 15
+E. 153 | x
+A major department store chain is interested in estimating the average amount its credit card customers spent on their first visit to the chain's new store in the mall. Fifty credit card accounts were randomly sampled and analyzed with the mean 80$ Construct a 95% confidence interval for the average amount its credit card customers spent on their first visit to the chain's new store in the mall, assuming that the amount spent follows a normal destnbution with the population standard deviation of 20$
+A (75 25, 84.75) 
+B (74 31. 85 69) 
+C. (7533 84 67) 
+D. None of the other choices is correct 
+E (74.46, 65 54) | x
+Past experience indicates that the time for high school senion to complete a standardized test is a nommal random variable with a mean of 35 minutes. If a random sample of 20 high school se niors took an average of 33.1 minutes to complete this test with a standard deviation of 4.3 minutes, test the hypothesis at the 0.025 level of significance that = 35 minutes against the alternative that µ < 35 minutes
+A to = -0.099 fail to reject Ho
+ B to=-0099, reject Ho 
+C to =-198, reject Ho 
+D to=-198. fail to repect Ho
+E None of the other choices is correct | C
+Suppose we have the following information from a simple regression
+n = 20
+Σxi = 23.92; Σyi = 1843.21;
+Σy^2i = 170044.5321; Σx^2i = 29.2892
+Find the total sum of squares, SSt
+A 185.435 
+B 1610.53 
+C None of the other choice is correct 
+D 158.56 
+E 173.37 | E
+If an economist wishes to determine whether there is evidence that average family income in a community exceeds $25,000...................... 
+A None of the other choices is correct 
+B a two-tailed test should be utilized 
+C a one-tailed test should be utilized 
+D either a one-tailed or two-tailed test could be used with equivalent results. | C
+An article described a study of investigating the relationship between the age (x) and length(y) of 5 captured dugongs:
+X 1.0 1.5 1.5 2.5 4.0
+Y 1.80 1.85 1.87 2.02 2.27
+Find the best point estimate of the y-intercept of regression line between x and y
+A None of the other choices is correct 
+B. 0.9982 
+C 0.1595 
+D. 0.1455 
+E 1.6271 | x
+A sample of 250 accidents showed that 140 were caused by drunk driving. 
+Let Z0.025 = 1.96, Z0.05 = 1.645. 
+Use the data to test
+Ho: p = 0.5 with alpha = 0.05, 
+the result is........
+A. None of the other choices is correct 
+B. Fail to reject Ho 
+C Roject Ho 
+D Not determined | D
+A university dean is interested in determining the proportion of students who receive some sort of financial aid. Rather than examine the records for all students, the dean randomly selects 200 students and finds that 118 of them are receiving financial aid Use a 95% confidence interval to estimate the true proportion of students on financial aid.
+A
+(0.585, 0.595)
+B. (0.588.0.592 )
+C None of the other choices is correct 
+D. (0.522. 0.658) 
+E. (0.116. 1.064) | D
+Suppose we have the following information from a simple regression:
+n=5, SSe= 7.4, x = 4 and Sxx = 20.8.
+What is the value of the estimated standard error of the intercept, se(Bo)?
+A.1.96
+B.1.55
+C 4.02
+D. None of the other choices is true
+E 2.23 | B
+weights of women in one age group are normally distributed with a standard deviation of 13 lb. A researcher wishes to estimate the mean weight of all women in this age group Find how large a sample must be drawn in order to be 90 percent confident that the sample mean will not differ from the population mean by more than 3.5 lb
+A. 23
+B. 44
+C. None of the other choices is correct
+D.38
+E.32 | D
+Listed below are the top 10 salaries (in millions of dollars) of television personalities in a recent year
+38 36 35 27 15 13 12 10 9.6 8.4
+We want to construct a 98 percent two-sided confidence interval on the vanance, find the critical values.
+A 2.09
+B 21.67 and 2.09 
+C. 19.68
+D. None of the other choices is correct
+E 19.68 and 2.53 | B
+A golfer would like to test the hypothesis that the variance of his golf score equals 12.0 A random sample of 25 rounds of golf had a sample standard deviation of 4.6. The test statistic for this hypotheses test would be ................
+A 42.32
+B 45.66 
+C 30.15 
+D None of the other choices is true 
+E 12.57 | A
+Suppose you want to test the claim that µ # 31.5, with known ϭ. If the sample size is n=81 and the level of significance alpha=0.1, when should you reject H0?
+AReject Hof the test statistic is greater than 2.575 or less than -2.575
+B. None of the other choices is correct 
+C. Roject Ho if the test statistic is greater than 1.645 or less than - 1.645
+D. Reject HO if the test statistic is greater than 2.33 or less than -2.33
+E Reject H if the test statistic is greater than 1.96 or less than-1.96 | C
+To test the null hypothesis
+Ho: µ = 1000, H1: µ < 1000 at alpha = 0.01,
+a random sample of n = 17 observations is selected from a normal population. Specify the rejection region.
+(i) to < 2.921
+(ii) to < -2.583
+(iii) to < 2.583
+(iv) to < -2.921 | (ii)
+The weight and blood pressure of 4 random selected wo age 25-30 are shown in following table:
+Weight 60 45 58 53
+BP 125 100 110 100
+Which of following statement is true about this sample?
+A. None of the other choice is correct
+B. r=0.802, negative correlation 
+C. r= -0.802, negative correlation
+D. r=-0.802, positive correlation 
+E. r=0.802. positive correlation | E
+Suppose we want to test
+Ho: µ = 0.80/ H1: µ # 0.80, alpha =0.05.
+Specify the form of the rejection region assuming that the sample size will be sufficient to guarantee the approximate normality of the sampling distribution of x.
+(i) Zo <- 1.645
+(ii) Zo > 1.96
+(iii) |zo|> 1.645 | x
+A teacher wants to report the most fail rate on a test with 90% confidence, construct the appropriate one-sided confidence interval. Assume that a simple random sample of 58 students results in 6 who fail the test.
+(i) p > 0.155
+(ii) p< 0.052
+(iii) p < 0.155
+(iv) p2 > 0.052 | iii
+A study is to be conducted of the percentage of homeowners who own at least two television sets. How large a sample is required if we wish to be 99% confident that the error in estimating this quantity is less than 0.04?
+A None of the other choices is correct
+B. 1041 
+C. 848 
+D. 1040
+E. 849 | B
+Construct a 95% confidence interval for the population standard deviation of a random sample of 15 men who have a mean weight of 165.2 pounds with a standard deviation of 10.3 pounds. Assume the population is normally distributed
+A. (7.9, 15.0) 
+B. (56.9, 263.9) 
+C. None of the other choices is correct 
+D. (7.5, 16.2) 
+E. (2.3, 5.1) | B
+Which of the following situations is NOT a correctly stated hypothesis testing problem?
+(i)Ho: µ= 30, H1: µ # 30
+(ii) H1: µ#25, H1: µ= 25
+(iii) Ho: x = 30. H1: µ# 30 
+(IV) Ho: ϭ=0.05, H1:ϭ#0.05 
+(v) Ho: p=0.5, H1: p#0.6 | ii , iii
+Find the critical value for a two-tailed test
+H1 : µ#10, alpha = 0.01, n = 30. 
+Assume that the data are normally distributed
+A. 2.33; -2.33
+B. 1.96; -1.96
+C. None of the other choices is correct
+D. 2.756; -2.756
+E. 1.645; -1.645 | E
+In a regression analysis if SSe=180 and SSr=450, then the coefficient of determination is............
+A. 0.7
+B. 0.4
+C. None of the other choice is correct 
+D. 0.3 
+E. 0.6 | C
+The National Center for Education Statistics would like to test the hypothesis that the proportion of Bachelor's degrees that were earned by women equals 0.60. A random sample of 140 college graduates with Bachelor degrees found that 75 were women. The National Center for Education Statistics would like to set the significant level to be 0.10. What is the value of the test statistic for this hypothesis test?
+A. 2.18
+B. None of the other choices is correct
+C. -1.21 
+D. 1.43 
+E. -1.55 | B
+Which of the following statement is FALSE?
+A. None of the other choices is correct
+B. Other things being equal, as the confidence level for a confidence interval increases, the width of the interval increases.
+C. A point estimate consists of a single sample statistic that is used to estimate the true population parameter.
+D. A population parameter is used to estimate a confidence interval. | B
+Eight students in a mathematics anxiety workshop are given a questionnaire on math anxiety (y) and an inventory test on basic arithmetic skills (x). Given that
+Σxi = 492: Σyi= 379; Σx^2i = 32894;Σy^2i = 20115: Σxiyi = 21087
+Find the y-intercept of the estimated regression line of y on x.
+A. None of the other choices is correct 
+B. 97.871 
+C. 21.146 
+D. 63.647 
+E. 15.439 | A
+The data below are the temperatures on randomly chosen days during a summer class and the number of absences on those days. Find the equation of the regression line for the given data.
+Temperature x: 73 85 91
+Number of absences y: 3 8 10
+(i) y=0.274x+0.449
+(ii) ġ=0.449x+30.27
+(iii) ģ=0.532x-0.449
+(iv) y=0.393x-25.067 | (iv)
+Expedia would like to test the hypothesis that the proportion of United Airline flights that arrive on-time is less than 0.80. A random sample of 110 United Airline flights found that 82 arrived on-time. Expedia would like to set the significant level to be 0.02. The test statistic for this hypothesis test would be_.............
+A. -2.77
+B. -1.43 
+C. None of the other choices is correct 
+D. -1.87
+E. -2.30 | B
+A restaurant claims that the standard deviation of the waiting time in line is less than 1.2 minutes. A random sample of 35 customers has a mean of 5.4 minutes with a standard deviation of 1.1 minute. Find the test statistic to test the restaurant's claim at the significant level of 0.1.
+A. 13.4 
+B. 12.8 
+C. 28.6 
+D. 22.5
+E. None of the other choices is correct | C
+Which of the following is FALSE about the slope of regression line?
+A. The slope of estimated regression line has Student's t-distribution with degree of freedom n-2
+B. The slope of estimated regression line has Student's t-distribution with degree of freedom n-1
+C. The slope of estimated regression line is an unbiased estimator for the slope of population regression line | B
+1. Of 375 randomly selected medical students, 30 said that they planned to work in a rural
+community. Find a 95% confidence interval for the true proportion of all medical students who plan to work in a rural community. | 5.25%< p < 10..7%
+2. How many business students must be randomly selected to estimate the mean monthly
+earnings of business students at one college? We want 95% confidence that the sample mean is within $129 of the population mean, and the population standard deviation is known to be $595 | 81.7 (82)
+3.A savings and loan association needs information concerning the checking account
+balances of its local customers. A random sample of 14 accounts was checked and yielded a mean balance of $664.14 and a standard deviation of $297.29. Find a
+98% upper confidence interval for the true mean checking account balance for local customers | m < 845.30$
+4.
+A manufacturer considers his production process to be out of control when defects exceed 3%. In a random sample of 285 items, the defect rate is 5.9% but the manager claims that this is only a sample fluctuation and production is not really out of control. At the 0.01 level of significance, test the manager's claim. | manager's claim. is NOT true
+5. A machine dispenses a liquid drug into bottles in such a way that the standard deviation
+of the contents is 81 milliliters. A new machine is tested on a sample of 24 containers and the standard deviation for this sample group is found to be 26 milliliters. At the 0.05 level of significance, test the claim that the amounts dispensed by the new machine have a
+smaller standard deviation. | 2.37 =>reject H0 =>ϭ < 81
+The computer output of an F-test is displayed as below:
+Fill in the missing values, and test the significance of regression at a = 3%. | 7.78 => reject H0
