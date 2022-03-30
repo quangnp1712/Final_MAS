@@ -2387,3 +2387,11 @@ a. 0.41
 b. 1.00
 c. 0.06
 d. 0.59
+
+P(AnB)=0.15, P(AuB)=0.65. Assume that A and B are independent and P(A) > P(B). Find P(A) and P(B). | P(A) =0.5 and P(B)= 0.3
+Let X and Y be two discrete uniform distributions with E(X)=1 and E(Y)=10. Find the value of E(10X-Y)
+The nine measurements that follow are furnace temperature. 920, 918, 922, 930, 915, ... Find the sample range and mean | 16 and 923.2
+There are three bags that each contain 100 marbles. Baag 1 has 75 red and 25 blue , 2 60red 40 blue, 3 45 red 55 blue. What is the probability that the chosen marble is red? | 0.58 ~ 0.6
+
+
+
